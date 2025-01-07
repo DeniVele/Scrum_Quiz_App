@@ -31,7 +31,7 @@ function initializeQuiz() {
                         </div>
                     `).join('')}
             </div>
-            <button onclick="submitAnswer(${index})">Submit</button>
+            <button onclick="submitAnswer(${index})">Check your answer!</button>
         `;
         quizContainer.appendChild(questionDiv);
     });
