@@ -2096,7 +2096,7 @@
     {
         "question": "What is the sequence of activities in TDD",
         "options": {
-			"A",
+			"A":"",
             "B":"Write a test, write code, refactor",
             "C":" ",
             "D":" "
