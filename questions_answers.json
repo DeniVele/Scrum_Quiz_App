@@ -2235,7 +2235,7 @@
     {
         "question": "What are the five values of Extreme Programming",
         "options": {
-			"A",
+			"A":"",
             "B":" Simplicity,Comunication,Feedback,CourageRespect",
             "C":" ",
             "D":" ",
