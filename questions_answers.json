@@ -334,7 +334,7 @@
             "E":"They ensure your product remains bug free."
         },
         "correct": [
-            "A/C/D"
+            "A","C","D"
         ]
     },
     {
@@ -363,7 +363,7 @@
             "C":"Integration",
             "D":"Smoke",
             "E":"Performance",
-            "F":"F. Unit"
+            "F":"Unit"
         },
         "correct": [
             "B",
@@ -497,7 +497,7 @@
             "D":"Code coverage metrics vary by development platform.",
             "E":"Code coverage does not necessarily provide functional coverage."
         },
-        "correct": ["B/C/E"]
+        "correct": ["B","C","E"]
     },
     {
         "question": "What is Technical Debt?(choose the best answer)",
@@ -1138,7 +1138,7 @@
             "D":"An ongoing strategy or technique for steadily addressing technical debt.",
             "E":"Guidance on the specific patterns to be implemented in code"
         },
-        "correct": ["A/C"]
+        "correct": ["A","C"]
     },
     {
         "question": "When using Scrum, can a Scrum Team use Continuous Delivery? (choose the best answer)",
@@ -1240,7 +1240,7 @@
             "D":"The last moment a Developer is responsible for quality, after this the Tester is responsible",
             "E":"Making decisions as soon as possible to close feedback loops as soon as possible"
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "Who is responsible for a Sprint Backlog item that contains several database related tasks?(choose the best answer)",
@@ -1294,7 +1294,7 @@
             "E":"The Developers carryover incomplete Sprint Backlog items frpm Sprint 7 to Sprint 8 and monitor the Sprint 8 burn-down charts. As soon as deviation from trends is detected the developers work with the Product Owners to negotiate remaining work",
             "F":"the  Scrum Master adds additional Developers from Sprint 8"
         },
-        "correct": ["B/D"]
+        "correct": ["B","D"]
     },
     {
         "question": "Which two ways of creating Scrum Teams are consistent with Scrum's values? (choose the best two answers)",
@@ -1343,7 +1343,7 @@
             "D":"The Scrum Team assigns someone to the role of software architect to provide architectural oversight.",
             "E":"The Developers focus only on adding functionality. The architecture will take care of itself as the Developers adds functionality."
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "Choose four desirable characteristics of a unit test.(choose all that apply)",
@@ -1372,7 +1372,7 @@
             "F":"Scrum is for functional front-end development only."
         },
         "correct": [
-            "A/D/E"
+            "A","D","E"
         ]
     },
     {
@@ -1644,7 +1644,7 @@
             "C":"An exellent bug report includes many bugs with detailed descriptions ",
             "D":"a good bug report has a clear title and correct grammar"
         },
-        "correct": ["A/B/D"]
+        "correct": ["A","B","D"]
     },
     {
         "question": "Test Driven Development does not rely on automated testing",
@@ -1837,7 +1837,7 @@
             "F":"Formatting and indentation"
         },
         "correct": [
-            "A/B/C/D/E/F"
+            "A","B","C","D","E","F"
         ]
     },
     {
@@ -1850,7 +1850,7 @@
             "E":" Reliability, Availability, Reusability, Serviceability and Performance"
         },
         "correct": [
-            "A/B/C/D/E"
+            "A","B","C","D","E"
         ]
     },
     {
@@ -2511,7 +2511,7 @@
             "C":" Enhance visible features of the software, such as ist interface",
             "D":""
         },
-        "correct": ["A/B/C"]
+        "correct": ["A","B","C"]
     },
     {
         "question": "Which of the following are the examples of a Technical Spike? Select all that apply",
@@ -2618,7 +2618,7 @@
             "F":"Unit tests passed"
         },
         "correct": [
-            "A/B/C/D/E/F"
+            "A","B","C","D","E","F"
         ]
     },
     {
@@ -2686,7 +2686,7 @@
             "B":" solid bug report is an effective means of communication for both the bug reporter and the bug reciever",
             "C":" In roder to recreate and resolve issues, detailed information is required"
         },
-        "correct": ["A/B/C"]
+        "correct": ["A","B","C"]
     },
     {
         "question": "Developers in a Scrum Team can complement the Scrum Framework with Extreme Programming",
@@ -2724,7 +2724,7 @@
             "A":" Mergind should happen more frequently. They can do this daily, ensuring that activities that require more than a few days remain in sync and morging issues are handled while they are still minor.",
             "B":"Each developer should be pulling from the main branch into their own feature branch to ensure that they do not deviate too far from the existing baseline."
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "Branching is the process of generating a logical or physical copy of code inside a version control number so that the copy can be modified independently",
@@ -2787,7 +2787,7 @@
             "A":"If the problem is so serious that leavind it unfixed would be irresponsible",
             "B":"If the labor required to remedy the problem is less than the work required to file and test it"
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "Which of the following are valid scenarios for Pari programming? Select all that apply",
@@ -2968,7 +2968,7 @@
             "D":"Removes redundant tasks",
             "E":"prerequisite for continous deployment and contionus testing"
         },
-        "correct": ["A/B/C/D/E"]
+        "correct": ["A","B","C","D","E"]
     },
     {
         "question": "company is developing critical software for a hospital network. This massive program is being developed by seven teams. What would you recommend",
@@ -3282,7 +3282,7 @@
             "A":"Add at least one high-priority item into the next Sprint Backlog",
             "B":"Add all other improvements into the Product Backlog"
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "The same product is being developed by five Scrum teams. Would you recommend each team develop separately in a different Version Control Branch",
@@ -3329,7 +3329,7 @@
             "B":"Because the source code is straightforward to understand, it makes it easier to resolve bugs",
             "C":""
         },
-        "correct": ["A/B"]
+        "correct": ["A","B"]
     },
     {
         "question": "Code conflicts can be detected sooner when they are easier to manage if the code is constantly compiled and checked",
@@ -4381,7 +4381,7 @@
             "F":"The Developers are collaboratively selecting their own work during the Sprint."
         },
         "correct": [
-            "A/B/E"
+            "A","B","E"
         ]
     },
     {
