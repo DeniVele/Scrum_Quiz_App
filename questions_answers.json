@@ -2077,16 +2077,7 @@
         ]
     },
     {
-        "question": "What is the role of the Scrum Master during the Sprint Retrospective",
-        "options": {
-            "C":" Scrum muster can participate as a team member"
-        },
-        "correct": [
-            "C"
-        ]
-    },
-    {
-        "question": "A company is attempting to minimize the amount of time it spends on manual testing. It tells its testing team to automate the functional test cases in the futurThe testing team says that functional testing cannot be automated, therefore this is not an options",
+        "question": "A company is attempting to minimize the amount of time it spends on manual testing. It tells its testing team to automate the functional test cases in the future. The testing team says that functional testing cannot be automated, therefore this is not an options",
         "options": {
             "A":" ",
             "B":"The testing team is incorrect"
@@ -2150,16 +2141,6 @@
         ]
     },
     {
-        "question": "In a given Sprint, 70 items are selected for Development. The team has seven developers, therefore, each Developer has to choose at least one Sprint Backlog item and ideally ten for equitable labor allocation",
-        "options": {
-            "A":" False",
-            "B":" True"
-        },
-        "correct": [
-            "A"
-        ]
-    },
-    {
         "question": "No one else than the Developers has the power to change a Sprint Backlog item",
         "options": {
             "A":" False",
@@ -2167,25 +2148,6 @@
         },
         "correct": [
             "B"
-        ]
-    },
-    {
-        "question": "What is included in Application Lifecycle Management? Select all that apply",
-        "options": {
-            "A":" Architecture management ",
-            "B":" Build and deployment automation",
-            "C":" Requirements definition and amangement",
-            "D":" Quality management",
-            "E":" Planning and change management",
-            "F":" Software configuration amangement"
-        },
-        "correct": [
-            "A",
-            "B",
-            "C",
-            "D",
-            "E",
-            "F"
         ]
     },
     {
@@ -2331,17 +2293,7 @@
         ]
     },
     {
-        "question": "Smoke Testing cannot be Automated",
-        "options": {
-            "A":" False",
-            "B":" True"
-        },
-        "correct": [
-            "A"
-        ]
-    },
-    {
-        "question": "A Developer wrote a code that broke the compilation of the Continuous Integration Software BuilThe Developer that ruined the build,  is accountable for repairing it",
+        "question": "A Developer wrote a code that broke the compilation of the Continuous Integration Software Build. The Developer that ruined the build, is accountable for repairing it",
         "options": {
             "A":"True",
             "B":" False"
@@ -2425,7 +2377,7 @@
     {
         "question": "How can Non-functional requirements be met? Select all that apply",
         "options": {
-            "A":" Including them in the Doand comparing the relevant increamtn to these criteria",
+            "A":" Including them in the DoD and comparing the relevant increamtn to these criteria",
             "B":" Add them to the Product Backlog",
             "C":" Documents containing Non-Functionanl Requirements are shared with developers",
             "D":" Add them to the relevant Produckt Backlog item as Acceptance criteria"
@@ -2496,7 +2448,7 @@
         ]
     },
     {
-        "question": "Instead of functional behavior requirements, a team is gathering specifications by leveraging actual examples from previous experiencWhat is the Team acknowledging",
+        "question": "Instead of functional behavior requirements, a team is gathering specifications by leveraging actual examples from previous experience. What is the Team acknowledging",
         "options": {
             "A":"",
             "B":"Specification by example"
@@ -2507,8 +2459,8 @@
         "question": "What of the following is not the purpose of Refactoring? (Select three answers)",
         "options": {
             "A":" Fixing bugs",
-            "B":" Rewritiung the entire program",
-            "C":" Enhance visible features of the software, such as ist interface",
+            "B":" Rewriting the entire program",
+            "C":" Enhance visible features of the software, such as its interface",
             "D":""
         },
         "correct": ["A","B","C"]
@@ -2544,22 +2496,6 @@
             "B":" False"
         },
         "correct": ["B"]
-    },
-    {
-        "question": "What is the approach to use a branch to work on a feature until it's complete then merge into the trunk/master Branch",
-        "options": {
-            "A":"",
-            "B":"Feature Branching"
-        },
-        "correct": ["B"]
-    },
-    {
-        "question": "During the refinement of a Product Backlog item, the Developers are allowed to provide feedback on Technical dependencies",
-        "options": {
-            "A":"True",
-            "B":" False"
-        },
-        "correct": ["A"]
     },
     {
         "question": "What is the term used to refer to a software code that is expressed well, formatted correctly and organized for later coders to understand",
