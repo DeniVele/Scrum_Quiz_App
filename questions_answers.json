@@ -2198,7 +2198,7 @@
         "question": "What are the five values of Extreme Programming",
         "options": {
 			"A":"",
-            "B":" Simplicity,Comunication,Feedback,CourageRespect",
+            "B":" Simplicity,Comunication,Feedback,Courage, Respect",
             "C":" ",
             "D":" ",
             "E":" ",
@@ -4533,6 +4533,206 @@
         },
         "correct": [
             "C"
+        ]
+    },
+    {
+        "question": "Time-to-market (or TTM) measures the time taken for the product, set of features, or single feature to be available and usable by customers. This measures the level of impact at",
+        "options": {
+            "A":"Strategic Measure",
+            "B":"Product Measure",
+            "C":"Delivery Measure",
+            "D":"All of the above"
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which of the following is true with respect to Product Backlog ?",
+        "options": {
+            "A":"A backlog occurs when the volume of the work exceeds the product team's capacity to deliver.",
+            "B":"A backlog occurs when the product team's capacity to deliver exceeds the volume of the work.",
+            "C":"A backlog occurs whenever backlog refinement happen, usually just before the iteration.",
+            "D":"A backlog occurs when the volume of the work is not able to be accommodated in the dashboard like Jira."
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "What is Sprint Retrospective?",
+        "options": {
+            "A":"The purpose of the sprint retrospective is to plan ways to increase quality and effectiveness",
+            "B":"It is the key inspect and adapt meeting",
+            "C":"It is the meeting to inspect the increment and adapt Product Backlog if needed",
+            "D":"It is a meeting where the Developers synchronize activities and create a plan for the next 24 hours"
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is true with respect to Product Backlog ?",
+        "options": {
+            "A":"A backlog occurs when the volume of the work exceeds the product team's capacity to deliver.",
+            "B":"A backlog occurs when the product team's capacity to deliver exceeds the volume of the work.",
+            "C":"A backlog occurs whenever backlog refinement happen, usually just before the iteration.",
+            "D":"A backlog occurs when the volume of the work is not able to be accommodated in the dashboard like Jira."
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "Which of the following is mandatory in Scrum?",
+        "options": {
+            "A":"Timeboxing the events",
+            "B":"Story Points",
+            "C":"Planning Poker",
+            "D":"Face-to-face communications",
+			"E":"Pair-Programming"
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "What are TWO good ways to handle security concerns?",
+        "options": {
+            "A":"Get help from responsible departments to ensure those concerns.",
+            "B":"Dedicate a certain portion of the team capacity to working on those concerns.",
+            "C":"Add them to the Product Backlog.",
+            "D":"Add them to the Definition of Done."
+            
+        },
+        "correct": [
+            "C","D"
+        ]
+    },
+    {
+        "question": "Which statement is NOT correct about Daily Scrums?",
+        "options": {
+            "A":"Only the Developers participate in the meeting.",
+            "B":"It's held at the same time and place every day.",
+            "C":"Developers must answer the 3 standard questions during the meeting.",
+            "D":"It's 15 minutes."
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "Stakeholders may not talk to the Developers during a Sprint ",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "The Product Backlog may be reordered following input from Stakeholders at the Sprint Review",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "Who can add items to the Product Backlog? ",
+        "options": {
+            "A":"Anyone but the Product Owner remains accountable for the Product Backlog ",
+            "B":"Only the Scrum Master",
+            "C":"Only the Developers ",
+            "D":"Only the Product Owner or the Developers"
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "The Sprint Review is the only time when stakeholder feedback is captured.",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "A demo of the Increment must be carried out at the Sprint Review",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "Who must ensure the Product Backlog is refined to a state that it is ready?",
+        "options": {
+            "A":"Stakeholders",
+            "B":"The Product Owner",
+            "C":"The Business Analyst ",
+            "D":"The Developers"
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "The Product Owner must use burn-down charts to track progress.",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "A new Increment must be available ...... ",
+        "options": {
+            "A":"Before each planned release ",
+            "B":"Every 2 Sprints",
+            "C":"Whenever the user acceptance testing is complete",
+            "D":"By the end of each Sprint before the Sprint Review ",
+			"E":"When the Scrum Master or the Product Owner asks for it "
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
+            
+        },
+        "correct": [
+            "XX"
         ]
     },
     {
