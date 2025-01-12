@@ -4723,19 +4723,124 @@
         ]
     },
     {
-        "question": "",
+        "question": "The Product Owner may ensure value is created by maximizing: (Select all that apply.)",
         "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
+            "A":"Customer satisfaction ",
+            "B":"Return on investment",
+            "C":"Employee satisfaction ",
+            "D":"Users on the latest version of the product"
             
         },
         "correct": [
-            "XX"
+            "A","B","C","D"
         ]
     },
     {
+        "question": "Sprints help the Scrum Team to limit work-in-progress. ",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "When may the Product Backlog be refined?",
+        "options": {
+            "A":"At the end of Sprint Planning",
+            "B":"Right before the Sprint Review",
+            "C":"During Sprint Planning",
+            "D":"Anytime as needed"
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "A new Increment must be available ...",
+        "options": {
+            "A":"Before each planned release",
+            "B":"Every 2 Sprints",
+            "C":"When the Scrum Master or the Product Owner asks for it ",
+            "D":"Whenever the user acceptance testing is complete",
+			"E":"By the end of each Sprint before the Sprint Review"
+            
+        },
+        "correct": [
+            "E"
+        ]
+    },
+    {
+        "question": "Who must ensure the Product Backlog is refined to a state that it is ready?",
+        "options": {
+            "A":"The Developers",
+            "B":"The Business Analyst",
+            "C":"Stakeholders",
+            "D":"The Product Owner"
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "Product Backlog management includes Select all that apply.",
+        "options": {
+            "A":"Developing and explicitly communicating the Product Goal",
+            "B":"Creating and clearly communicating Product Backlog items",
+            "C":"Ordering Product Backlog items",
+            "D":"Ensuring that the Product Backlog is transparent visible and understood"
+            
+        },
+        "correct": [
+            "A","B","C","D"
+        ]
+    }
+        "question": "Which KVA categories should the Product Owner consider to measure and track the creation and delivery of value to the market place (select three)?",
+        "options": {
+            "A":"Current Value",
+            "B":"Time-to-Market",
+            "C":"Risk Reduction",
+            "D":"Ability to Innovate",
+			"E":"Employee Satisfaction",
+			"F":"Capability Building"
+            
+        },
+        "correct": [
+            "A","B","D"
+        ]
+    }
+        "question": "How does the Product Owner communicate his marketplace knowledge to the Scrum Team (select three)?",
+        "options": {
+            "A":"Daily ad hoc interactions",
+            "B":"Product Backlog Refinement",
+            "C":"Sprint Reviews",
+            "D":"Sprint Retrospectives",
+			"E":"Daily Scrums"
+            
+        },
+        "correct": [
+            "A","B","C"
+        ]
+    }
+        "question": "Select the two focus areas that are not considered in executing Value Driven Development by the Product Owner.",
+        "options": {
+            "A":"Product Marketplace Expert",
+            "B":"Product Value Maximizer",
+            "C":"Product Visionary",
+            "D":"Lead Facilitator of Key Stakeholder Involvement",
+			"E":"Product Release Decision Maker",
+			"F":"Remover of impediments to the Development Team’s progress",
+			"G":"Coach of the Development Team in self-organization and cross-functionality"
+            
+        },
+        "correct": [
+            "F","G"
+        ]
+    }
         "question": "",
         "options": {
             "A":"",
