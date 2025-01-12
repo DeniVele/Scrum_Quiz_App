@@ -4798,7 +4798,8 @@
         "correct": [
             "A","B","C","D"
         ]
-    }
+    },
+    {
         "question": "Which KVA categories should the Product Owner consider to measure and track the creation and delivery of value to the market place (select three)?",
         "options": {
             "A":"Current Value",
@@ -4812,7 +4813,8 @@
         "correct": [
             "A","B","D"
         ]
-    }
+    },
+    {
         "question": "How does the Product Owner communicate his marketplace knowledge to the Scrum Team (select three)?",
         "options": {
             "A":"Daily ad hoc interactions",
@@ -4825,7 +4827,8 @@
         "correct": [
             "A","B","C"
         ]
-    }
+    },
+    {
         "question": "Select the two focus areas that are not considered in executing Value Driven Development by the Product Owner.",
         "options": {
             "A":"Product Marketplace Expert",
@@ -4840,7 +4843,34 @@
         "correct": [
             "F","G"
         ]
-    }
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
+            
+        },
+        "correct": [
+            "XX"
+        ]
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
+            
+        },
+        "correct": [
+            "XX"
+        ]
+    },
+    {
         "question": "",
         "options": {
             "A":"",
