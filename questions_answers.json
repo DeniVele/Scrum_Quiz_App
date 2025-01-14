@@ -4549,19 +4549,6 @@
         ]
     },
     {
-        "question": "Which of the following is true with respect to Product Backlog ?",
-        "options": {
-            "A":"A backlog occurs when the volume of the work exceeds the product team's capacity to deliver.",
-            "B":"A backlog occurs when the product team's capacity to deliver exceeds the volume of the work.",
-            "C":"A backlog occurs whenever backlog refinement happen, usually just before the iteration.",
-            "D":"A backlog occurs when the volume of the work is not able to be accommodated in the dashboard like Jira."
-            
-        },
-        "correct": [
-            "C"
-        ]
-    },
-    {
         "question": "What is Sprint Retrospective?",
         "options": {
             "A":"The purpose of the sprint retrospective is to plan ways to increase quality and effectiveness",
@@ -4682,19 +4669,6 @@
         },
         "correct": [
             "B"
-        ]
-    },
-    {
-        "question": "Who must ensure the Product Backlog is refined to a state that it is ready?",
-        "options": {
-            "A":"Stakeholders",
-            "B":"The Product Owner",
-            "C":"The Business Analyst ",
-            "D":"The Developers"
-            
-        },
-        "correct": [
-            "D"
         ]
     },
     {
