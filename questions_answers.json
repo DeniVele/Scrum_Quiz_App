@@ -4819,6 +4819,114 @@
         ]
     },
     {
+        "question": "Refinement usually consumes how much of part of the capacity of the Scrum Team? (choose the best answer) ",
+        "options": {
+            "A":"Not more than 10%",
+            "B":"Not more than 20%",
+            "C":"It is up to the Scrum Team.",
+            "D":"Not more than 5%"
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "The Scrum framework consists of what? (choose all that apply)",
+        "options": {
+            "A":"Events",
+            "B":"Artifacts",
+            "C":"Accountabilities",
+            "D":"Rules"
+            
+        },
+        "correct": [
+            "A","B","C","D"
+        ]
+    },
+    {
+        "question": "Which statement is correct about the Sprint Backlog? (choose the best answer)",
+        "options": {
+            "A":"It has all the details. ",
+            "B":"It has just enough detail. ",
+            "C":"It has no detail."
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "What level of completeness should the Sprint Backlog have by the end of Sprint Planning? (choose the best answer)",
+        "options": {
+            "A":"There should be a minimum of 5 tasks.",
+            "B":"Each task should be clearly defined.",
+            "C":"It should be complete enough to provide work for the Developers during the initial days of the Sprint. ",
+            "D":"The Scrum Master will determine the level of completeness."
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "What distinguishes the product burn-down chart from the Sprint burn-down chart? (choose the best answer) ",
+        "options": {
+            "A":"The product burn-down chart displays the number of Sprints on the y-axis while the Sprint burn-down chart shows the number of tasks on the y-axis. ",
+            "B":"The product burn-down chart represents the Sprints on the y-axis while the Sprint burn- down chart represents the Sprint on the y-axis.",
+            "C":"The product burn-down chart illustrates the Sprints on the x-axis whereas the Sprint burn- down chart represents the days of the Sprint on the x-axis.",
+            "D":"The product burn-down chart shows the remaining effort in story points while the Sprint burn-down chart shows the remaining time in hours."
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "How regularly should Scrum users examine Scrum artifacts and progress approaching a Sprint Goal?(choose the best answer)",
+        "options": {
+            "A":"At the Sprint Review",
+            "B":"Frequently, but it should not get in the way of the work",
+            "C":"After the Daily Scrum",
+            "D":"As frequently as possible"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "Select which are not part of the pillars that uphold Scrum? (choose all that apply)",
+        "options": {
+            "A":"Transparency ",
+            "B":"Adaptation ",
+            "C":"Self-organization",
+            "D":"Inspection",
+			"E":"Agility",
+			"F":"Teamwork",
+			"G":"Cross-functionaIity"
+            
+        },
+        "correct": [
+            "C","E","F","G"
+        ]
+    },
+    {
+        "question": "Who is allowed to change the actionable plan for delivering the Increment? (choose the best answer)",
+        "options": {
+            "A":"The Developers and the Product Owner",
+            "B":"The Product Owner",
+            "C":"The Developers",
+            "D":"The Scrum Master",
+			"E":"The Scrum Team",
+			"F":"Upper management"
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
         "question": "",
         "options": {
             "A":"",
