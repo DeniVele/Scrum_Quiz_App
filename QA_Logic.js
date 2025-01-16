@@ -19,28 +19,47 @@ questions.forEach((q, index) => {
     quizContainer.appendChild(questionDiv);
 });
 
+// Initialize counters
+let totalAnswered = 0;
+let incorrectCount = 0;
+
+function updateCounters() {
+    document.getElementById("total-answered-counter").textContent = `Total Answers Answered: ${totalAnswered}`;
+    document.getElementById("incorrect-counter").textContent = `Incorrect Answers: ${incorrectCount}`;
+}
+
 // Evaluate and apply color coding for each question
 function submitAnswer(questionIndex) {
     const q = questions[questionIndex];
     const selected = Array.from(document.querySelectorAll(`input[name="question${questionIndex}"]:checked`)).map(cb => cb.value);
     const correct = q.correct;
 
-    // For each answer option, check if it's correct or incorrect
-    Object.keys(q.options).forEach(option => {
-        const optionElement = document.querySelector(`input[name="question${questionIndex}"][value="${option}"]`).parentElement;
+    let isAlreadyEvaluated = document.querySelector(`button[onclick="submitAnswer(${questionIndex})"]`).disabled;
 
-        // If the option is correct, mark it green
-        if (correct.includes(option)) {
-            optionElement.classList.add("correct");
-        }
+    if (!isAlreadyEvaluated) {
+        totalAnswered++; // Increment total answered questions
 
-        // If the option is selected and incorrect, mark it red
-        if (selected.includes(option) && !correct.includes(option)) {
-            optionElement.classList.add("incorrect");
-        }
-    });
+        Object.keys(q.options).forEach(option => {
+            const optionElement = document.querySelector(`input[name="question${questionIndex}"][value="${option}"]`).parentElement;
 
-    // Disable further changes after submission (optional)
-    const buttons = document.querySelectorAll(`button[onclick="submitAnswer(${questionIndex})"]`);
-    buttons.forEach(button => button.disabled = true);
+            // If the option is correct, mark it green
+            if (correct.includes(option)) {
+                optionElement.classList.add("correct");
+            }
+
+            // If the option is selected and incorrect, mark it red
+            if (selected.includes(option) && !correct.includes(option)) {
+                optionElement.classList.add("incorrect");
+                incorrectCount++; // Increment incorrect answers
+            }
+        });
+
+        updateCounters();
+
+        // Disable the submit button
+        document.querySelectorAll(`button[onclick="submitAnswer(${questionIndex})"]`).forEach(button => button.disabled = true);
+    }
 }
+
+// Update counters when the page loads
+updateCounters();
