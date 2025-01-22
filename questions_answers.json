@@ -4927,16 +4927,68 @@
         ]
     },
     {
-        "question": "",
+        "question": "Which agile aspect refuses what is often considered a ""necessary evil"" in many industries — long work  hours overtime or even working nights or weekends? (choose the best answer) ",
         "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
+            "A":"Continuous Delivery",
+            "B":"Small releases.",
+            "C":"DevOps. ",
+            "D":"Sustainable pace."
             
         },
         "correct": [
-            "XX"
+            "D"
+        ]
+    },
+    {
+        "question": "What is the role of Management in Scrum? (choose the best answer)",
+        "options": {
+            "A":"Procurement management making sure that the Scrum Team follows the contract's terms.",
+            "B":"Make sure that the project's budget is being used as planned.",
+            "C":"Monitor the Scrum Team's productivity and deliverables' quality.",
+            "D":"Embrace bottom-up intelligence by providing information to the Scrum Team supporting its empiricism and trusting it to learn about the problem at hand."
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "What is the time-box for the Sprint Planning for a two weeks Sprint? (choose the best answer) ",
+        "options": {
+            "A":"4 hours.",
+            "B":"2 hours",
+            "C":"8 hours or less.",
+            "D":"It depends."
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "The Sprint Backlog is composed of the Sprint Goal (why) the set of Product Backlog items selected for the Sprint (what) as well as an actionable plan for delivering the Increment (how). (hich of the following sentences is FALSE?) ",
+        "options": {
+            "A":"The Sprint Backlog makes all of the work that the Developers identify as necessary to meet the Sprint Goal.",
+            "B":"The Developers modify the Sprint Backlog throughout the Sprint and the Sprint Backlog emerges during the Sprint. ",
+            "C":"The Sprint Backlog is a plan With enough detail that changes in progress can be understood in the Daily Scrum.",
+            "D":"The Developers commit to the Sprint Backlog."
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "Which Scrum event provides an opportunity for the Developer to inspect and adapt their progress on a daily basis? (choose the best answer) ",
+        "options": {
+            "A":"Sprint Retrospective",
+            "B":"Daily Scrum",
+            "C":"Sprint Planning",
+            "D":"Product Backlog Refinement"
+            
+        },
+        "correct": [
+            "B"
         ]
     },
     {
