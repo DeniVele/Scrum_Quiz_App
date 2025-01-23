@@ -4927,7 +4927,7 @@
         ]
     },
     {
-        "question": "Which agile aspect refuses what is often considered a ""necessary evil"" in many industries — long work  hours overtime or even working nights or weekends? (choose the best answer) ",
+        "question": "Which agile aspect refuses what is often considered a *necessary evil* in many industries — long work  hours overtime or even working nights or weekends? (choose the best answer) ",
         "options": {
             "A":"Continuous Delivery",
             "B":"Small releases.",
