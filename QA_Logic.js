@@ -39,6 +39,12 @@ function submitAnswer(questionIndex) {
     if (!isAlreadyEvaluated) {
         totalAnswered++; // Increment total answered questions
 
+        // Determine if the question is correct or incorrect
+        const isCorrect = correct.length === selected.length && correct.every(answer => selected.includes(answer));
+        if (!isCorrect) {
+            incorrectCount++; // Increment incorrect questions
+        }
+
         Object.keys(q.options).forEach(option => {
             const optionElement = document.querySelector(`input[name="question${questionIndex}"][value="${option}"]`).parentElement;
 
@@ -50,7 +56,6 @@ function submitAnswer(questionIndex) {
             // If the option is selected and incorrect, mark it red
             if (selected.includes(option) && !correct.includes(option)) {
                 optionElement.classList.add("incorrect");
-                incorrectCount++; // Increment incorrect answers
             }
         });
 
