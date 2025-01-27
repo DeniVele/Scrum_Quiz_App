@@ -4993,6 +4993,60 @@
         ]
     },
     {
+        "question": "Which three statements correctly represent Scrum's principles and characteristics? (choose the best three answers) ",
+        "options": {
+            "A":"Scrum transitions from traditional project management by introducing Scrum Masters in place of Project Managers. ",
+            "B":"In Scrum each element has a defined intention and its correct application is crucial for effective Scrum practice. ",
+            "C":"Scrum gives the users the option to select which of its aspects they should adopt.",
+            "D":"Scrum offers a structure to facilitate and maintain intricate products.",
+			"E":"Empiricism and lean thinking form the foundational principles of Scrum."
+            
+        },
+        "correct": [
+            "B","D","E"
+        ]
+    },
+    {
+        "question": "You're tasked With guiding the creation of a new application involving seven Scrum Teams new to the framework. With an initial Product Backlog in Place what's the most effective strategy to reduce inter-team dependencies? (choose the best answer) ",
+        "options": {
+            "A":"Collaborate With the Developers to evaluate and break down the tasks.",
+            "B":"Assign a unique Product Backlog to each Scrum Team. ",
+            "C":"Recognize the dependencies and rearrange the Product Backlog for six of the Product Owners.",
+            "D":"Discuss this challenge With the Scrum Master as a potential obstacle.",
+			"E":"Distribute Product Backlog tasks among the seven Product Owners."
+            
+        },
+        "correct": [
+            "A"
+        ]
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
+            
+        },
+        "correct": [
+            "XX"
+        ]
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
+            
+        },
+        "correct": [
+            "XX"
+        ]
+    },
+    {
         "question": "",
         "options": {
             "A":"",
