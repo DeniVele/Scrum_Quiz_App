@@ -5021,12 +5021,12 @@
         ]
     },
     {
-        "question": "",
+        "question": "Which of the following signals might suggest to a Product Owner that they should engage more actively With the Scrum Team? (choose the best answer)",
         "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
+            "A":"She hasn't dedicated full-time hours to the Scrum team. ",
+            "B":"The criteria for accepting items seem to be unfinished. ",
+            "C":"The product showcased during the Sprint Review deviates from her expectations.",
+            "D":"Members depart from the Scrum Team."
             
         },
         "correct": [
