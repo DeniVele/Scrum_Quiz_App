@@ -5021,12 +5021,75 @@
         ]
     },
     {
-        "question": "Which of the following signals might suggest to a Product Owner that they should engage more actively With the Scrum Team? (choose the best answer)",
+        "question": "Which of the following signals might suggest to a Product Owner that they should engage more actively with the Scrum Team? (choose the best answer)",
         "options": {
             "A":"She hasn't dedicated full-time hours to the Scrum team. ",
             "B":"The criteria for accepting items seem to be unfinished. ",
             "C":"The product showcased during the Sprint Review deviates from her expectations.",
             "D":"Members depart from the Scrum Team."
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "What are four value areas the Product Owner should keep in mind to maximize value delivery (choose the best answer)",
+        "options": {
+            "A":"Current Value, Future Value, Potential Value, and Past Value",
+            "B":"Financial Value, Customer Value, Team Value, and Organizational Value",
+            "C":"Market Value, Competitive Value, Strategic Value, and Operational Value",
+            "D":"Current Value, Unrealized Value, Time to Market, and Ability to Innovate"
+            
+        },
+        "correct": [
+            "D"
+        ]
+    },
+    {
+        "question": "How can the Product Owner estimate a probable completion date?(choose the best answer)",
+        "options": {
+            "A":"By dividing the remaining work in the Product Backlog by the average velocity",
+            "B":"By any method they choose",
+            "C":"By using a trend line in the burn-up chart",
+            "D":"It is not the duty of the Product Owner. The Developers must estimate the completion date"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "How much refinement is needed for a Product Backlog item?(choose the best answer)",
+        "options": {
+            "A":"As much as needed for the Product Owner and the customers",
+            "B":"As much as needed by the Developers",
+            "C":"Typically, they are small enough so that they can be Done within a Sprint",
+            "D":"Until every user story has detailed specifications clear enough for developers"
+            
+        },
+        "correct": [
+            "C"
+        ]
+    },
+    {
+        "question": "True or False: Is it exclusive to the Scrum Team to participate in Sprint Planning?",
+        "options": {
+            "A":"True",
+            "B":"False"
+            
+        },
+        "correct": [
+            "B"
+        ]
+    },
+    {
+        "question": "",
+        "options": {
+            "A":"",
+            "B":"",
+            "C":"",
+            "D":""
             
         },
         "correct": [
