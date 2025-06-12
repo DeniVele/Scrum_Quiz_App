@@ -352,8 +352,7 @@
     "correct": ["C"]
   },
 {
-    "question": "Which of the following is an appropriate measure to express the effort associated with
-user stories?",
+    "question": "Which of the following is an appropriate measure to express the effort associated with user stories?",
     "options": {
       "A": "Tasks",
       "B": "Ideal time",
@@ -403,8 +402,7 @@ user stories?",
     "correct": ["D"]
   },
 {
-    "question": "A team estimated that the total ideal time requirement for a proposed set of work
-items is 500 hours. How should this be translated into elapsed time?",
+    "question": "A team estimated that the total ideal time requirement for a proposed set of work items is 500 hours. How should this be translated into elapsed time?",
     "options": {
       "A": "Based on a conversion rate of ideal to actual time at a team level",
       "B": "Using the story pointing approach",
@@ -419,15 +417,12 @@ items is 500 hours. How should this be translated into elapsed time?",
       "A": "There is no flexibility in the schedule",
       "B": "The team should use MoSCoW prioritization to create a feature buffer",
       "C": "The iteration schedule can be extended",
-      "D": "It is pointless to estimate as it is a "death march" project"
+      "D": "It is pointless to estimate as it is a 'death march' project"
     },
     "correct": ["B"]
   },
 {
-    "question": "In a large project, the team identified the highest priority features and
-completed them first. The remaining features are almost at the same
-priority level and the team is confused which one to work on first. How
-should this be addressed?",
+    "question": "In a large project, the team identified the highest priority features and completed them first. The remaining features are almost at the same priority level and the team is confused which one to work on first. How should this be addressed?",
     "options": {
       "A": "By completing the remaining stories in any order",
       "B": "By considering technical convenience as the key factor in determining sequence from this point",
@@ -437,8 +432,7 @@ should this be addressed?",
     "correct": ["C"]
   },
     {
-        "question": "The team suggested estimates. The range of estimates were plotted on a graph with
-no names and discussed. What method did the team use",
+        "question": "The team suggested estimates. The range of estimates were plotted on a graph with no names and discussed. What method did the team use",
         "options": {
             "A":"Hi-low estimates",
             "B":"Affinity estimating",
@@ -464,8 +458,7 @@ no names and discussed. What method did the team use",
         ]
     },
 {
-        "question": "A large product requires 4 teams working in parallel. How many product owners should be
-assigned to this product",
+        "question": "A large product requires 4 teams working in parallel. How many product owners should be assigned to this product",
         "options": {
             "A":"One",
             "B":"Four",
@@ -478,8 +471,7 @@ assigned to this product",
         ]
     },
 {
-        "question": "A large product requires four teams working in parallel. How many product backlogs should be
-produced",
+        "question": "A large product requires four teams working in parallel. How many product backlogs should be produced",
         "options": {
             "A":"One",
             "B":"Four",
@@ -558,9 +550,7 @@ produced",
         ]
     },
     {
-        "question": "A team was working on a project with a release backlog of 200 points. Between iterations
-1 and 3, they completed 50 points of work and the product owner added 20 points of work
-to the release. What should be the bottom of the burndown bar chart?",
+        "question": "A team was working on a project with a release backlog of 200 points. Between iterations 1 and 3, they completed 50 points of work and the product owner added 20 points of work to the release. What should be the bottom of the burndown bar chart?",
         "options": {
             "A":"At 150",
             "B":"At -20",
@@ -573,9 +563,7 @@ to the release. What should be the bottom of the burndown bar chart?",
         ]
     },
     {
-        "question": "A team was working on a project with a release backlog of 200 points. Between iterations
-1 and 3, they completed 50 points of work and the product owner added 20 points of work
-to the release. What should be the top of the burndown bar chart?",
+        "question": "A team was working on a project with a release backlog of 200 points. Between iterations 1 and 3, they completed 50 points of work and the product owner added 20 points of work to the release. What should be the top of the burndown bar chart?",
         "options": {
             "A":"At 170",
             "B":"At 150",
