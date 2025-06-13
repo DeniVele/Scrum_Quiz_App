@@ -440,9 +440,7 @@
             "D":"Fibonacci sequences"
             
         },
-        "correct": [
-            "C"
-        ]
+        "correct": ["C"]
     },
 {
         "question": "Which estimating technique can be used when there is limited amount of time to estimate a large number of stories",
@@ -453,9 +451,7 @@
             "D":"Wideband Delphi"
             
         },
-        "correct": [
-            "B"
-        ]
+        "correct": ["B"]
     },
 {
         "question": "A large product requires 4 teams working in parallel. How many product owners should be assigned to this product",
@@ -651,84 +647,1196 @@
     },
     "correct": ["C"]
   },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+  {
+    "question": "What activity can the agile team do to list the reasons why a particular process was failing during iteration?",
+    "options": {
+      "A": "Fishbone analysis",
+      "B": "Check-in analysis",
+      "C": "Short subjects",
+      "D": "SMART goals"
     },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+    "correct": ["A"]
+  },
+  {
+    "question": "During a retrospective meeting what should the team do after they have set the stage?",
+    "options": {
+      "A": "Generate insight",
+      "B": "Gather data",
+      "C": "Decide what to do",
+      "D": "Close retrospective"
     },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+    "correct": ["B"]
+  },
+  {
+    "question": "An agile team considers the risks on the project and includes tasks to address them as part of the project work. This is done using:",
+    "options": {
+      "A": "The risk management plan",
+      "B": "The risk association matrix",
+      "C": "The risk decision tree",
+      "D": "The risk-adjusted backlog"
     },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+    "correct": ["D"]
+  },
+  {
+    "question": "User stories feature which of the following components?",
+    "options": {
+      "A": "Role, Function, Benefit",
+      "B": "Reason, Functionality, Benefit",
+      "C": "Risk, Function, Benefit",
+      "D": "Risk, Feature, Business Reason"
     },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+    "correct": ["A"]
+  },
+  {
+    "question": "Which circumstance would be a good fit for the use of personas?",
+    "options": {
+      "A": "When the conversation is centered on the high-level flow of a process",
+      "B": "When we are trying to better understand stakeholder demographics and general needs",
+      "C": "When we need to capture the high-level objective of a specific requirement",
+      "D": "When we want to communicate what features will be included in the next release"
     },
-    {
-        "question": "",
-        "options": {
-            "A":"",
-            "B":"",
-            "C":"",
-            "D":""
-            
-        },
-        "correct": [
-            "XX"
-        ]
+    "correct": ["B"]
+  },
+  {
+    "question": "When comparing communication styles, which of the following is true?",
+    "options": {
+      "A": "Paper-based communication has the lowest efficiency and the highest richness.",
+      "B": "Face-to-face communication has the highest efficiency and the lowest richness.",
+      "C": "Paper-based communication has the highest efficiency and the lowest richness.",
+      "D": "Face-to-face communication has the highest efficiency and the highest richness."
     },
+    "correct": ["D"]
+  },
+  {
+    "question": "You notice your team saying things like 'Team B has no clue again.' What level of conflict are they experiencing?",
+    "options": {
+      "A": "Level 1",
+      "B": "Level 2",
+      "C": "Level 3",
+      "D": "Level 4"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "High-visibility project displays are sometimes called:",
+    "options": {
+      "A": "Project radiators",
+      "B": "Information refrigerators",
+      "C": "Information radiators",
+      "D": "Project distributors"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The INVEST mnemonic for user stories looks for attributes that include:",
+    "options": {
+      "A": "Independent, Negotiable, Smart",
+      "B": "Valuable, Easy-to-use, Timely",
+      "C": "Negotiable, Estimatable, Small",
+      "D": "Independent, Valuable, Timely"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Burn down charts display the following attributes on their axes:",
+    "options": {
+      "A": "X axis = points remaining; Y axis = calendar time",
+      "B": "X axis = estimated time remaining; Y axis = calendar time",
+      "C": "X axis = calendar time; Y axis = estimated effort remaining",
+      "D": "X axis = calendar time; Y axis = calendar time"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Wireframe models help agile teams to:",
+    "options": {
+      "A": "Test designs",
+      "B": "Confirm designs",
+      "C": "Configure reports",
+      "D": "Track velocity"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "What is velocity not used for?",
+    "options": {
+      "A": "Gauging the work capacity of the team",
+      "B": "Checking our release plan validity",
+      "C": "Getting a sense of work done per iteration",
+      "D": "Defining feature requirements"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The definition of done is frequently discussed with stakeholders so that:",
+    "options": {
+      "A": "Functionality can be negotiated until the last responsible moment.",
+      "B": "Everyone has a clear understanding of what completion means.",
+      "C": "Team members get to improve their negotiation skills.",
+      "D": "Active listening reveals previously undiscussed requirements."
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Which circumstance is a good fit for using user stories?",
+    "options": {
+      "A": "When the conversation is centered on the high-level flow of a process",
+      "B": "When we are trying to better understand stakeholder demographics and general needs",
+      "C": "When we need to capture the high-level objective of a specific requirement",
+      "D": "When we want to communicate what features will be included in the next release"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Agile modeling aims to:",
+    "options": {
+      "A": "Capture the intent of the design in a barely sufficient way",
+      "B": "Capture the intent of the design in detail-oriented way",
+      "C": "Deliver extraneous documentation for the project",
+      "D": "Recognize that the value of modeling increases with time spent"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Which of the following is a valid requirements hierarchy progression from large to small?",
+    "options": {
+      "A": "Task, User Story, Epic",
+      "B": "Feature, User Story, Task",
+      "C": "Epic, User Story, Feature",
+      "D": "Epic, Task, Feature"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Your team seems to unproductively debate even trivial decisions. To help them along, you could try:",
+    "options": {
+      "A": "Fist-of-five voting",
+      "B": "Bare list fighting",
+      "C": "Wideband Delphi",
+      "D": "Retrospectives"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Which statement is true for measuring team velocity?",
+    "options": {
+      "A": "Velocity is not accurate when there are meetings that cut into development time.",
+      "B": "Velocity measurements are disrupted when some project resources are part-time.",
+      "C": "Velocity tracking does not allow for scope changes during the project.",
+      "D": "Velocity measurements account for work done and disruptions on the project."
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You have been assigned to lead a geographically distributed agile team. To assist with communication, the best option would be to:",
+    "options": {
+      "A": "Ask team members to send photos of themselves so you know what they look like.",
+      "B": "Choose a common language for project communications.",
+      "C": "Set up some initial face-to-face meetings for everyone to meet.",
+      "D": "Define common working hours so everyone can better communicate."
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The relationship between leadership and management in agile methods is:",
+    "options": {
+      "A": "Leadership replaces all aspects of management.",
+      "B": "Leadership is subservient to management.",
+      "C": "Management and leadership are used together.",
+      "D": "Management and leadership are not compatible."
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Wrreframes, personas, and user stories can all playa part in understanrung stakeholder objectives. Which of the circumstances outlined below would be a good fitfor the use of wireframes?",
+    "options": {
+      "A": "When the conversation is centered on the high-level flow of a process",
+      "B": "When we are trying to better understand stakeholder demographics and general needs",
+      "C": "When we need to capture the high-level objective of a specific requirement",
+      "D": "When we want to communicate what features will be included in the next release"
+    },
+    "correct": ["A"]
+  },
+{
+    "question": "Which are the recommended pairings of adaptive leadership and team phases?",
+    "options": {
+      "A": "Supporting and Norming, Delegating and Performing, Directing and Forming, Coaching and Storming",
+      "B": "Directing and Forming, Coaching and Storming, Delegating and Norming, Supporting and Performing",
+      "C": "Directing and Forming, Supporting and Storming, Delegating and Norming, Coaching and Performing",
+      "D": "Directing and Forming, Supporting and Norming, Coaching and Performing, Delegating and Storming"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "__________ is the agile name given to undocumented information supported through team communications.",
+    "options": {
+      "A": "Unwritten knowledge",
+      "B": "Tribal knowledge",
+      "C": "Tacit knowledge",
+      "D": "Common knowledge"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Self-organizing teams are most readily characterized by their ability to:",
+    "options": {
+      "A": "Do their own filing",
+      "B": "Sit where they like",
+      "C": "Make local decisions",
+      "D": "Make project-based decisions"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following is not a recommendation for one-on-one coaching?",
+    "options": {
+      "A": "Meet them a half-step ahead",
+      "B": "Create positive regard",
+      "C": "Partner with managers",
+      "D": "Let the team resolve conflicts"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "High-performing teams feature which of the following sets of characteristics?",
+    "options": {
+      "A": "Consensus-driven, empowered, low trust",
+      "B": "Self-organizing, plan-driven, empowered",
+      "C": "Consensus-driven, empowered, plan-driven",
+      "D": "Constructive disagreement, empowered, self-organizing"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Which of the following sets of tools is least likely to be utilized by an agile team?",
+    "options": {
+      "A": "Digital camera, task board",
+      "B": "Woo, planning poker cards",
+      "C": "WBS, PERT charts",
+      "D": "Smart board, card wall"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following is a valid list of the quadrants of emotional intelligence?",
+    "options": {
+      "A": "Self, Others, Recognize, Optimize",
+      "B": "Self, Others, Regulate, Recognize",
+      "C": "Self, Team, Regulate, Recognize",
+      "D": "Self, Team, Recognize, Optimize"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The three questions answered in daily stand-up meetings aim to:",
+    "options": {
+      "A": "Identify problems, discuss accomplishments",
+      "B": "Identify opportunities, discuss accomplishments",
+      "C": "Fix problems, discuss accomplishments",
+      "D": "Fix problems, discuss work planned"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Who typically has the best insight into task execution?",
+    "options": {
+      "A": "Project managers",
+      "B": "Team members",
+      "C": "ScrumMasters",
+      "D": "Agile coaches"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Which of the following are recommended brainstorming techniques?",
+    "options": {
+      "A": "Quiet writing",
+      "B": "Decision spectrum",
+      "C": "Fist-of-five voting",
+      "D": "Participatory decisions"
+    },
+    "correct": ["A"]
+  },
+{
+    "question": "Servant leadership roles include:",
+    "options": {
+      "A": "Shielding team members from interruptions",
+      "B": "Leading conflict resolution",
+      "C": "Determining which features to include in an iteration",
+      "D": "Assigning tasks to save time"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Which of the following statements is false for distributed teams?",
+    "options": {
+      "A": "Should consider instant messaging tools",
+      "B": "Should have an easier Storming phase",
+      "C": "Need to spend more effort communicating",
+      "D": "Have a higher need for videoconferencing"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Another project manager of an agile project in your organization comes to you for advice. She is having trouble getting her team to take ownership of the project and get comfortable selecting the work to be done. She keeps finding herself making the decisions and directing their work. What advice can you offer her?",
+    "options": {
+      "A": "Play round-robin at stand-up meetings, assigning a different person each day as the decision maker to get them comfortable in the role.",
+      "B": "Implement an incentive plan and officially report any lack of participation to team members' functional managers.",
+      "C": "Meet them halfway and work with their functional managers to align each team member's goals with the project goals.",
+      "D": "Explain to them that agile teams self-select their work and tell them to get on with it."
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Tuckman's stages of team formation and development progress in what sequence?",
+    "options": {
+      "A": "Norming, Storming, Performing, Forming",
+      "B": "Norming, Storming, Forming, Performing",
+      "C": "Forming, Storming, Performing, Norming",
+      "D": "Forming, Storming, Norming, Performing"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Blanchard and Hersey's adaptive leadership phases, in sequence, are:",
+    "options": {
+      "A": "Supporting, Directing, Coaching, Delegating",
+      "B": "Supporting, Coaching, Directing, Delegating",
+      "C": "Delegating, Coaching, Supporting, Directing",
+      "D": "Directing, Coaching, Supporting, Delegating"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Which of the following emotional intelligence pairings is an appropriate combination?",
+    "options": {
+      "A": "Self-management deals with influence",
+      "B": "Self-awareness deals with self-control",
+      "C": "Social skills deals with self-confidence",
+      "D": "Social awareness deals with empathy"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The primary reason constructive disagreement is valued on high-performing agile teams is to:",
+    "options": {
+      "A": "Weed out the weak",
+      "B": "Test requirements for robustness",
+      "C": "Generate buy-in for decisions",
+      "D": "Build negotiation skills"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "At what team formation and development phase is conflict likely to be highest?",
+    "options": {
+      "A": "Forming",
+      "B": "Fuming",
+      "C": "Storming",
+      "D": "Debating"
+    },
+    "correct": ["C"]
+  },
+{
+    "question": "Your team committed to delivering 10 storypoints this iteration, but it looks like you will only complete 8. You should:",
+    "options": {
+      "A": "Extend the iteration.",
+      "B": "Add more resources to the team.",
+      "C": "Complete 8 points, and put 2 back in the backlog.",
+      "D": "Adjust the iteration plan from 10 points down to 8."
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following collections of planning units is most typical for agile projects?",
+    "options": {
+      "A": "A release plan containing multiple projects, each with multiple iterations",
+      "B": "A project plan containing multiple releases, each with multiple iterations",
+      "C": "A project plan containing multiple iterations, each containing multiple releases",
+      "D": "An iteration plan containing multiple projects, each containing multiple releases"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "When converting size estimates to duration, remember to:",
+    "options": {
+      "A": "Ignore distractions and use ideal time",
+      "B": "Divide the timebox capacity by the number of stories",
+      "C": "Factor in distractions and use available time",
+      "D": "Calculate the payback period for the estimated duration"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The project management office is auditing your agile project and asks to see your iteration plans. They notice that only the next couple of iterations have plans. As a result, they give the project a 'red flag' for having incomplete plans. The most responsible thing to do is:",
+    "options": {
+      "A": "Explain the principles of progressive elaboration.",
+      "B": "Create detailed iteration plans for the remainder of the project.",
+      "C": "Ignore them, since they clearly have no right to be reviewing your project.",
+      "D": "Have the team create detailed plans for the rest of the project."
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Which of the following statements correctly describes agile planning?",
+    "options": {
+      "A": "Plan at multiple levels, and have managers create iteration plans.",
+      "B": "Use appropriate estimate ranges, and exclude diversions/outside work.",
+      "C": "Plan at multiple levels, and have team members create iteration plans.",
+      "D": "Use fixed-point estimates, and base projections on completion rates."
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following is not a characteristic of agile estimation?",
+    "options": {
+      "A": "Team-based",
+      "B": "Collaborative",
+      "C": "Iterative",
+      "D": "Fixed-point"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "When conducting an iteration planning meeting using a Scrum approach, which of the following statements is not true?",
+    "options": {
+      "A": "The product owner is responsible for the backlog priorities.",
+      "B": "The team is responsible for the estimates.",
+      "C": "The team breaks down user stories into tasks.",
+      "D": "The ScrumMaster selects the top items off the backlog."
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are leading a team with an average velocity of 50 points per iteration. Another team of the same size in your organization is working on a project with similar complexity. The other team's velocity is averaging 75 points per month. Your team should:",
+    "options": {
+      "A": "Undertake affinity estimating to check their estimates",
+      "B": "Work longer hours",
+      "C": "Ignore the difference",
+      "D": "Acquire additional resources"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Estimates should be presented as ranges to:",
+    "options": {
+      "A": "Allow for Change requests",
+      "B": "Keep the sponsors flexible",
+      "C": "Allow for scope creep",
+      "D": "Represent uncertainty in the estimates"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Which of the following pieces of information are you least likely to find in an agile charter document?",
+    "options": {
+      "A": "A list of who will be engaged on the project",
+      "B": "A description of how it will be undertaken",
+      "C": "An explanation as to why the project is being done",
+      "D": "A precise estimate for the project"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "An executive wants help evaluating a proposed three-year project against two proposed one-year projects. Which business case metric would be most helpful?",
+    "options": {
+      "A": "NPV",
+      "B": "ROI",
+      "C": "MMF",
+      "D": "Velocity"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Your team is averaging 40 story points per two-week iteration. They have 200 points' worth of functionality left in the user story backlog. How many weeks do you expect it will take until development is completed?",
+    "options": {
+      "A": "2.5",
+      "B": "5",
+      "C": "10",
+      "D": "20"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When using story points to estimate a project, which of the following statements is most accurate?",
+    "options": {
+      "A": "The team owns the definition of what constitutes a story point.",
+      "B": "There should be a company-wide standard definition of a story point.",
+      "C": "The definition of a story point is refactored every iteration.",
+      "D": "Story points can be used for iteration planning but not release planning."
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "On agile projects, generally midcourse adjustments are:",
+    "options": {
+      "A": "Not necessary",
+      "B": "The norm",
+      "C": "The exception",
+      "D": "Not required"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "When calculating final project costs, which of the following expressions best outlines the basic concept?",
+    "options": {
+      "A": "Time + (Rate x Other project costs)",
+      "B": "(Time x Rate) — Other project costs",
+      "C": "Time x Rate x Project duration",
+      "D": "(Time x Rate) + Other project costs"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Affinity estimating is the process of:",
+    "options": {
+      "A": "Averaging the over- and under-estimations.",
+      "B": "Checking that stories given the same size estimate are of equivalent magnitude.",
+      "C": "Checking that stories in the same functional areas are of equivalent magnitude.",
+      "D": "Estimating your favorite stories first."
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The term 'progressive elaboration' means:",
+    "options": {
+      "A": "Scope always keeps growing.",
+      "B": "Plans are refined as more details emerge.",
+      "C": "Development velocity is increasing.",
+      "D": "Estimates are changed to actuals after completion."
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You are a full-time ScrumMaster on an agile team. A team member becomes ill partway through an iteration in which the team committed to deliver 25 story points. Which action is most appropriate?",
+    "options": {
+      "A": "Work the remaining team longer hours.",
+      "B": "Send work home to the sick team member.",
+      "C": "Start development yourself to assist the team.",
+      "D": "Deliver what you can within the sprint."
+    },
+    "correct": ["D"]
+  },
+{
+    "question": "Which activity does not actively reduce a problem's position on the cost of change curve?",
+    "options": {
+      "A": "Pair programming",
+      "B": "Test-driven development",
+      "C": "Velocity",
+      "D": "Acceptance test—driven development"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Your team has identified a number of problems during a retrospective session and you now want to help understand and fix the issues. The sequence of activities you should undertake is:",
+    "options": {
+      "A": "Generate insights, gather data, decide what to do",
+      "B": "Gather data, generate insights, decide what to do",
+      "C": "Decide what to do, gather data, generate insights",
+      "D": "Decide what to do, generate insights, gather data"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The term used for describing errors that are missed by quality assurance and control processes and that make it into production is:",
+    "options": {
+      "A": "Cost of change",
+      "B": "Undocumented features",
+      "C": "Escaped defects",
+      "D": "Change requests"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Trends in project data are useful since they can offer insights and are what type of indicator?",
+    "options": {
+      "A": "Lagging metrics",
+      "B": "Leading metrics",
+      "C": "Lead times",
+      "D": "Little's Law"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The concept of control limits can be described as:",
+    "options": {
+      "A": "Visual controls that show acceptable ranges",
+      "B": "Change control procedures to help manage flow",
+      "C": "Budget processes that help teams estimate better",
+      "D": "Exception reporting techniques with escalation paths"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "In software development, the process of frequently integrating new and changed code is known as:",
+    "options": {
+      "A": "Integrating continuously",
+      "B": "Continuous integration",
+      "C": "Integration control",
+      "D": "Constant integrations"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The shorthand summary of test-driven development activities is:",
+    "options": {
+      "A": "Red, Green, Yellow",
+      "B": "Red, Green, Refactor",
+      "C": "Green, Red, Clean",
+      "D": "Green, Red, Refactor"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "On agile projects, the term 'cycle time' usually refers to:",
+    "options": {
+      "A": "The average duration of an iteration",
+      "B": "Time taken for work from start to finish",
+      "C": "The time for SMEs to review the product",
+      "D": "Time between releases of a product"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "A short period of proof-of-concept work is known as:",
+    "options": {
+      "A": "Risk stops",
+      "B": "Spikes of iteration",
+      "C": "Risk-based spike",
+      "D": "Test-first design"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following is not a form of frequent verification and validation?",
+    "options": {
+      "A": "Pair programming",
+      "B": "Unit testing",
+      "C": "Iteration demos",
+      "D": "Iteration planning"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are managing an agile project and measure small amounts of variance in task durations. You should:",
+    "options": {
+      "A": "Undertake root-cause analysis to eliminate it",
+      "B": "Engage the team in diagnosing the problem",
+      "C": "Diagnose the issue as part of your ScrumMaster role",
+      "D": "Accept some variance as inevitable"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are a team member on a software development project and have been asked to follow a test-driven development process. The sequence of activities you would undertake is:",
+    "options": {
+      "A": "Write code, write test, refactor",
+      "B": "Write test, refactor, write code",
+      "C": "Write test, write code, refactor",
+      "D": "Write code, refactor, write test"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When solving problems in a team setting, goals for problem resolution should be SMART. The characteristics of SMART goals are:",
+    "options": {
+      "A": "Simple, Marketable, Attainable, Risk Tolerant, Timely",
+      "B": "Simple, Malleable, Attainable, Relevant, Testable",
+      "C": "Specific, Measurable, Attributable, Relevant, Testable",
+      "D": "Specific, Measurable, Attainable, Relevant, Timely"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The purpose of continuous integration is to:",
+    "options": {
+      "A": "Always have a version of the software ready for release",
+      "B": "Shorten lengthy compile times",
+      "C": "Facilitate the practice of pair programming",
+      "D": "Find code issues as soon as possible"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Fast failure is the term used to describe:",
+    "options": {
+      "A": "Finding fatal design flaws early",
+      "B": "Developing without proper testing",
+      "C": "The last step of the ATDD process",
+      "D": "An element of continuous integration"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "On a timeline graph used in the gathering data phase for team-based problem-solving, the line underneath the X-axis usually represents:",
+    "options": {
+      "A": "Team velocity at the time",
+      "B": "Team satisfaction/feelings",
+      "C": "Team risk rankings at the time",
+      "D": "Team hours of work"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "When diagnosing problems, we ask 'why' five times:",
+    "options": {
+      "A": "To get to the root cause of an issue",
+      "B": "Because asking six times would be ridiculous",
+      "C": "Because people unconsciously deceive themselves about problems three or four times",
+      "D": "To fully gather data around the issue"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "You are a team lead helping your team decide what to do about some problems identified in a retrospective. What are some of the techniques you can use?",
+    "options": {
+      "A": "Smart Subjects, Short Goals, Retrospective Planning Game",
+      "B": "Smart Subjects, Retrospective Poker Game, Smart Goals",
+      "C": "Short Subjects, Smart Goals, Retrospective Planning Game",
+      "D": "Retrospective Poker Game, Short Subjects, Circle of Questions"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "PMI's Code of Ethics and Professional Conduct focuses on which of the following?",
+    "options": {
+      "A": "Service, Protection, Education, Honesty",
+      "B": "Responsibility, Respect, Fairness, Honesty",
+      "C": "Respect, Valor, Honesty, Transparency",
+      "D": "Responsibility, Transparency, Fairness, Honesty"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "When conducting a retrospective, recognized 'close the retrospective' activities include:",
+    "options": {
+      "A": "Plus/Delta; Helped, Hindered, Hypothesis; Return on Time Invested; Appreciations",
+      "B": "Plus/Minus; Helped, Hindered, Hoped; Return on Time Invested; Applause",
+      "C": "Plus/Delta; Helped, Hindered, Hoped; Return on Investment; Appreciations",
+      "D": "Plus/Minus; Helped, Hindered, Hypothesis; Return on Time Delivered; Appreciations"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "You have been asked to review a different project team's recently enhanced methodology to assess its effectiveness and desirable characteristics. The types of characteristics that you should be looking for include evidence of:",
+    "options": {
+      "A": "A preference for face-to-face communications, significant process weight, recommendations for larger teams to use lighter methods",
+      "B": "A preference for face-to-face communications, not too much process weight, recommendations for larger teams to use lighter methods",
+      "C": "A preference for face-to-face communications, significant process weight, recommendations for larger teams to use heavier methods",
+      "D": "A preference for face-to-face communications, not too much process weight, recommendations for larger teams to use heavier methods"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The concept of knowledge sharing on an agile project is best characterized as:",
+    "options": {
+      "A": "Encouraged where possible and where the team shows an interest",
+      "B": "Central to many of the practices undertaken",
+      "C": "Undertaken if there is time left at the end of an iteration",
+      "D": "Undertaken principally through stand-up meetings"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Continuous improvement is a core component of which of the following set of agile practices?",
+    "options": {
+      "A": "Pair programming; daily stand-up meetings; WIP limits",
+      "B": "Story points; daily stand-up meetings; demos, reviews, and retrospectives",
+      "C": "Pair programming; daily stand-up meetings; demos, reviews, and retrospectives",
+      "D": "Story points; daily stand-up meetings; WIP limits"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When considering process tailoring, it is useful to keep in mind that the network of XP practices is:",
+    "options": {
+      "A": "Redundant",
+      "B": "Duplicated",
+      "C": "Optional",
+      "D": "Balanced"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The recommended stages of executing a retrospective, in sequence, are:",
+    "options": {
+      "A": "Decide what to do, set the stage, gather data, generate insights, close the retrospective",
+      "B": "Decide what to do, gather data, set the stage, generate insights, close the retrospective",
+      "C": "Set the stage, decide what to do, gather data, generate insights, close the retrospective",
+      "D": "Set the stage, gather data, generate insights, decide what to do, close the retrospective"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are engaging in some process analysis and have been advised to watch out for the standard anti-patterns of poor methodology practice. The types of things you should be on the lookout for are processes that display signs of being:",
+    "options": {
+      "A": "One-of-a-kind, disciplined, heavy, embellished",
+      "B": "One-size-fits-all, disciplined, heavy, embellished",
+      "C": "One-size-fits-all, intolerant, heavy, embellished",
+      "D": "One-of-a-kind, intolerant, embellished"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Process tailoring is best undertaken on agile projects when:",
+    "options": {
+      "A": "There are difficulties in implementing agile practices",
+      "B": "Experienced practitioners want to address an issue",
+      "C": "The team needs new processes to keep them engaged",
+      "D": "A boost in team velocity is needed to meet the schedule"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Your project management office (PMO) has suggested your project could benefit from some self-assessment work at the next retrospective. Which of the following benefits would they most likely be looking to achieve from a self-assessment?",
+    "options": {
+      "A": "Improve personal and team practices",
+      "B": "Gain insights for salary performance reviews",
+      "C": "Identify personal traits for human resources counseling",
+      "D": "Assess compatibilities for pair programming assignments"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "When undertaking process analysis, what are the success criteria that characterize a useful methodology?",
+    "options": {
+      "A": "The project got stopped, sponsorship remained intact, the team would work the same way again",
+      "B": "The project got shipped, leadership remained intact, the team would work the same way again",
+      "C": "The project got shipped, sponsorship remained intact, the team would work the same way again",
+      "D": "The project got shipped, sponsorship remained intact, the team engaged in continuous improvement"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "When adopting a new agile practice, the general recommendations are to:",
+    "options": {
+      "A": "Develop the new approach yourself, try out the practice on local projects, inspect and review the findings early",
+      "B": "Investigate the claims yourself, try out the practice on local projects, inspect and review the findings early",
+      "C": "Investigate the claims yourself, try out the practice in small doses, inspect and review the findings early",
+      "D": "Develop the new approach yourself, try out the practice in small doses, inspect and review the findings early"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "As a manager of an agile team, when should you collect lessons learned?",
+    "options": {
+      "A": "At the end of the project",
+      "B": "Throughout the project",
+      "C": "When projects go well",
+      "D": "When projects go poorly"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Information exchanges in agile methods are designed to:",
+    "options": {
+      "A": "Facilitate knowledge sharing",
+      "B": "Leverage electronic knowledge-sharing tools",
+      "C": "Maximize resource utilization",
+      "D": "Generate stable specifications"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Your sponsor is asking about tailoring the company's newly adopted agile methodology. Your advice should be:",
+    "options": {
+      "A": "Tailoring it will be a good way to learn the methodology",
+      "B": "Tailoring it will be a good way to ease into the initial adoption process",
+      "C": "We should tailor it first, then consider adopting it",
+      "D": "We should try it first, then consider tailoring it"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "What activity can the agile team do to list the reasons why a particular process was failing during iteration?",
+    "options": {
+      "A": "Fishbone analysis",
+      "B": "Check-in analysis",
+      "C": "Short subjects",
+      "D": "SMART goals"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "During a retrospective meeting what should the team do after they have set the stage?",
+    "options": {
+      "A": "Generate insight",
+      "B": "Gather data",
+      "C": "Decide what to do",
+      "D": "Close retrospective"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "An agile team considers the risks on the project and includes tasks to address them as part of the project work. This is done using:",
+    "options": {
+      "A": "The risk management plan",
+      "B": "The risk association matrix",
+      "C": "The risk decision tree",
+      "D": "The risk-adjusted backlog"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "The Kanban board is a simple artifact that serves all of the following purposes except:",
+    "options": {
+      "A": "Acting as information radiator",
+      "B": "Resolving impediments",
+      "C": "Visualizing the workflow",
+      "D": "Identifying constraints"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "A product roadmap is used as a ____________.",
+    "options": {
+      "A": "Negotiation tool",
+      "B": "Planning tool",
+      "C": "Communication tool",
+      "D": "Visioning tool"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The project team is working with the customers to write the user stories. The customers have refused as they claim this would add no value to the project. What would be the best step to resolve this?",
+    "options": {
+      "A": "Have the team write the user stories",
+      "B": "Let the agile project manager write the user stories",
+      "C": "Educate the users why user stories are valuable",
+      "D": "Inform them user stories may not be needed"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Over the last three weeks the project team has finally been able to establish a shared vision of what the product would look like when it is complete. This is an example of?",
+    "options": {
+      "A": "Shared vision",
+      "B": "Requirements gathering",
+      "C": "Progressive elaboration",
+      "D": "Progressive management"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Which of the following is not a principle of agile planning?",
+    "options": {
+      "A": "Engage the project team",
+      "B": "Engage stakeholders",
+      "C": "Conduct most of the planning at the beginning",
+      "D": "Conduct planning throughout the project"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When following the agile method of scrum what is each iteration of work called?",
+    "options": {
+      "A": "Iteration",
+      "B": "Sprint",
+      "C": "Release",
+      "D": "Backlog"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The agile project team has completed the Sprint planning meeting. What would be the output of this meeting?",
+    "options": {
+      "A": "Product backlog",
+      "B": "Sprint backlog",
+      "C": "User backlog",
+      "D": "Sprint requirements"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Which of the following is not one of the Lean Software development principles?",
+    "options": {
+      "A": "Deliver fast",
+      "B": "Empower the team",
+      "C": "Empower the project manager",
+      "D": "Eliminate waste"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Agile is an _____ term that is used to refer to different types of iterative development.",
+    "options": {
+      "A": "Continuous",
+      "B": "Set",
+      "C": "Umbrella",
+      "D": "Predictive"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "While discussing the benefits of agile with three of the organization's key stakeholders what would be seen as the main benefit for conducting the project using agile methodology versus a traditional methodology?",
+    "options": {
+      "A": "Agile delivers value incrementally",
+      "B": "Traditional delivers values all up front",
+      "C": "Traditional delivers value at the beginning",
+      "D": "Agile project requires funding up front"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "One of the customers would like to add a new component to the project that would likely increase the functionality of the software. What steps should the customer take when adding this new component?",
+    "options": {
+      "A": "Fill out a change request form",
+      "B": "Ask the agile project manager for permission to add it to the product backlog",
+      "C": "Add it to the product backlog",
+      "D": "Changes are not allowed on agile projects"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When leading an agile project team what should be the first step the agile project manager should take?",
+    "options": {
+      "A": "Determine what software should be used on the project to help them collaborate",
+      "B": "Determine where to set up a co-location",
+      "C": "Work with the organization management to recruit the most educated members",
+      "D": "Learn the team members needs"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "During the daily standup meeting the team members are required to answer how many questions?",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Where will the customers have the ability to give feedback on a completed increment of the product?",
+    "options": {
+      "A": "Sprint planning meeting",
+      "B": "Sprint retrospective",
+      "C": "Sprint review meeting",
+      "D": "Sprint product meeting"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Who is in charge of managing the work during the iteration?",
+    "options": {
+      "A": "Agile project manager",
+      "B": "Team",
+      "C": "Product owner",
+      "D": "Senior management"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The agile project team has decided to do one of the features from the product backlog. The single feature will take six weeks to complete and will be reviewed by the customer. What actions should the agile project manager take next?",
+    "options": {
+      "A": "Arrange the workspace for the team members to get started",
+      "B": "Inform the customers of the six weeks duration",
+      "C": "Inform the team they need to conduct the daily standup meetings",
+      "D": "Inform the team six weeks is too long and they will need to decompose that feature into smaller increments"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "One of the values in the agile manifesto is to respond to change over?",
+    "options": {
+      "A": "Processes and tools",
+      "B": "Comprehensive documentation",
+      "C": "Contract negotiation",
+      "D": "Following a plan"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "What is the primary method customers will use in order to measure the progress of the agile project?",
+    "options": {
+      "A": "Percentage-based completion",
+      "B": "Working software",
+      "C": "Number of iterations",
+      "D": "Number of releases"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "On an agile project who owns the product vision?",
+    "options": {
+      "A": "Agile project manager",
+      "B": "Product owner",
+      "C": "Development team",
+      "D": "Senior management"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "After the iteration has completed where will the team inspect the methods they used to build that increment?",
+    "options": {
+      "A": "Iteration review",
+      "B": "Iteration planning",
+      "C": "Iteration backlog",
+      "D": "Retrospective"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "What is the difference between a release and iteration?",
+    "options": {
+      "A": "A release will contain multiple iterations",
+      "B": "An iteration will contain multiple releases",
+      "C": "Agile project manager determines what's in a release",
+      "D": "Agile project manager determines what's in an iteration"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Which of the following is a core value in extreme programming?",
+    "options": {
+      "A": "Management",
+      "B": "Leadership",
+      "C": "Communication",
+      "D": "Engagement"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "When implementing kanban development which of the following should be done?",
+    "options": {
+      "A": "Create it using custom software on a large screen",
+      "B": "Create it on a whiteboard with erasable markers",
+      "C": "Only have the team create it using software",
+      "D": "Only have the agile project manager create it using software"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Which of the following is an XP practice that helps to create a shared vision between the developers and the customers?",
+    "options": {
+      "A": "Daily standup meetings",
+      "B": "Metaphors",
+      "C": "Iteration review meeting",
+      "D": "Retrospectives"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Before the team has started to develop the software, they have written the tests they will use to test the codes before they have actually coded the software. This is known as?",
+    "options": {
+      "A": "Pair programming",
+      "B": "Continuous integration",
+      "C": "Sustainable pace",
+      "D": "Test-driven development"
+    },
+    "correct": ["D"]
+  },
+{
+  "question": "While managing an agile project the project team should strive for which of the following?",
+  "options": {
+    "A": "Simplifying work",
+    "B": "Finding the best Kanban software",
+    "C": "Creating a change request process",
+    "D": "Showing progress of work to customers with daily emails"
+  },
+  "correct": ["A"]
+},
     {
         "question": "",
         "options": {
