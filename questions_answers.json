@@ -1837,6 +1837,636 @@
   },
   "correct": ["A"]
 },
+{
+    "question": "The project management plan specifies that a predictive development approach has been selected to produce the project deliverables. Where in the project life cycle will the overall project risk be the lowest?",
+    "options": {
+      "A": "A",
+      "B": "B",
+      "C": "C",
+      "D": "D"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A company is considering two projects, Alpha and Beta. Project Alpha is expected to result in a $50 million net profit, while project Beta is expected to net $45 million. Both projects could be very lucrative and rewarding. However, the financial controller has stated that the company can only invest in one of these projects. If project Alpha is selected, what will be the opportunity cost?",
+    "options": {
+      "A": "$95 million",
+      "B": "$50 million",
+      "C": "$45 million",
+      "D": "$5 million"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are managing a project to build five bridges. The project consists of five sequential phases with each phase delivering one bridge. After the first phase of the project is complete, which process group of the second phase should follow?",
+    "options": {
+      "A": "Initiating",
+      "B": "Planning",
+      "C": "Executing",
+      "D": "Closing"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "The project aims to investigate the feasibility of constructing a hydroelectric dam from a technical, economic, and social point of view. The project charter created by the project manager on behalf of the project sponsor is now approved. Which of the following processes should be performed next?",
+    "options": {
+      "A": "Develop Project Management Plan",
+      "B": "Identify Risks",
+      "C": "Identify Stakeholders",
+      "D": "Develop Project Charter"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are managing a software upgrade project for your company. Your project sponsor has a great deal of authority regarding project decisions, but you recently discovered that he doesn't have much interest in your project. To complete the project successfully, you need your project sponsor's continuous support. What stakeholder management strategy should you use with your project sponsor?",
+    "options": {
+      "A": "Keep the sponsor satisfied",
+      "B": "Manage the sponsor closely",
+      "C": "Monitor the sponsor's actions",
+      "D": "Keep the sponsor informed"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The project sponsor asks for a copy of the document that contains the description, owner, source, priority, and status of product requirements. Which project document is the project sponsor requesting?",
+    "options": {
+      "A": "The requirements management plan",
+      "B": "The requirements traceability matrix",
+      "C": "The scope management plan",
+      "D": "The work breakdown structure (WBS)"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You are facing problems decomposing the testing work package into the final activities required to complete the work package. Detailed testing plans and activities cannot be determined until the system is at least 50% developed and more details become available. The system development work package will take at least three months to complete. What is the best way to resolve this problem?",
+    "options": {
+      "A": "Use product analysis techniques such as product breakdown and systems analysis to decompose the system testing work package",
+      "B": "Decompose the system development work package now and decompose the system testing work package later",
+      "C": "Break down the project into multiple phases so that the system testing work package goes into the second project phase",
+      "D": "Consult the project management plan to determine what to do in this situation"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You are about to start planning for a large and complex project. Due to the size of the project along with the regulatory and environmental considerations, the development of a detailed project management plan will be critical. As a starting point for initial project planning, what is the first thing you should do?",
+    "options": {
+      "A": "Conduct a project kick-off meeting to inform and engage stakeholders and gain commitment",
+      "B": "Review the project charter to understand the high-level information about the project",
+      "C": "Begin the process of identifying stakeholders so they can be engaged as necessary for project planning",
+      "D": "Share the project scope statement with the project team for a common understanding of project deliverables"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "As you are monitoring the cost baseline for your project, you notice that project expenses are higher than expected at this point in the project. What is the most likely cause of the variance?",
+    "options": {
+      "A": "Overestimated material costs",
+      "B": "Lack of stakeholder support",
+      "C": "An incomplete milestone list",
+      "D": "Excess inventory"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Recently, you promoted your star programmer, Sam, to lead the agile development team. Sam was a fantastic software coder, and you thought the promotion would mean that he could now share his expertise with the other development team members. However, you are surprised to learn that the performance of Sam in his new role is not meeting your expectations. Which empirical rule did you forget while considering the promotion of Sam?",
+    "options": {
+      "A": "Expectancy theory",
+      "B": "Halo effect",
+      "C": "Pareto concept",
+      "D": "Murphy's law"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You have just taken over a project in execution. During your first week, you determine that the project team members spend a lot of time responding to unexpected requests for information from different project stakeholders. Because of these interruptions, the team cannot focus on their project activities, and as a result, the project is behind schedule. What should you do first?",
+    "options": {
+      "A": "Tell the team members to stop responding to unexpected requests since it is not the responsibility of the team",
+      "B": "Push the team to respond to all the requests faster so that they can perform their assigned project activities on time",
+      "C": "Ask the team to forward all stakeholder inquiries to you so that the team members can focus on their assigned tasks",
+      "D": "Review the communications management plan to understand how stakeholder requests should be handled"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A team member submits a draft of the requirements management plan to the project manager for a review. The project manager notices that one of the components included in the plan does not belong there. Which of the following components did the project manager most likely notice?",
+    "options": {
+      "A": "A process that describes how the project requirements will be prioritized",
+      "B": "The metrics that will be used and the rationale for using them",
+      "C": "A process that specifies how a project scope statement will be prepared",
+      "D": "How requirement activities will be planned, tracked, and reported"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "While reviewing your project's performance, you discover a significant variance. If the issue is not fixed before the next customer inspection, your project might be canceled. However, after a further review conducted by the project team, you are glad to hear that bringing the project back on track requires only a minor correction to a configuration element. What should you do first?",
+    "options": {
+      "A": "Implement the corrective action",
+      "B": "Submit a change request",
+      "C": "Consult the project sponsor",
+      "D": "Delay the customer inspection"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "A project manager is leading a process improvement project for a factory operation. Currently, the project manager and the team are performing the Monitor and Control Project Work process. Which of the following activities might be carried out during this process?",
+    "options": {
+      "A": "Comparing actual project performance against the project management plan",
+      "B": "Implementing approved change requests to achieve the project's objectives",
+      "C": "Analyzing change requests and either approving or rejecting them",
+      "D": "Gaining formal acceptance of the deliverables by the customer or sponsor"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "During project planning, the project team rigorously defined the project scope. During project execution, a senior engineer calls the project manager and suggests a simpler and more efficient design which could benefit the project. What should the project manager do next?",
+    "options": {
+      "A": "Nothing, no changes are needed since the project scope was rigorously defined",
+      "B": "Discuss the change with the project sponsor",
+      "C": "Evaluate the impact of the proposed change on the project constraints",
+      "D": "Ask that the engineer submit a change request"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are working with a team to estimate how much time is required for each activity. You are using a document that contains information on the categories of labor, material, and equipment required to complete the project. You are also interested in the skill levels, required certifications, and the grade levels for supplies. Which of the following documents would you primarily refer to for this purpose?",
+    "options": {
+      "A": "Resource breakdown structure",
+      "B": "Organizational breakdown structure",
+      "C": "Work breakdown structure",
+      "D": "Risk breakdown structure"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "While performing project work, a team member notices that there is a potential new risk, which could impact the project's critical path. What should the team member do immediately?",
+    "options": {
+      "A": "Recommend the project be placed on hold for a day to avoid the risk",
+      "B": "Document the risk in the risk register",
+      "C": "Draft an emergency fallback plan since the critical path is in jeopardy",
+      "D": "Generate a risk report using quantitative and quantitative analysis of the identified risk to alert the team of the schedule impacts"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You are managing a project that is nearing its end and planning to settle all pending claims with the vendors. In one case, you are not satisfied with the delivery of their final product. All conversations with the vendor have ended in an impasse. What should you do in this situation?",
+    "options": {
+      "A": "Pay the vendor as some products were delivered",
+      "B": "Take the vendor to court",
+      "C": "Discontinue further meetings with the vendor and hold back payment",
+      "D": "Identify some form of alternative dispute resolution"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Your company was awarded a contract that includes a 10% bonus payment if the project is completed two months early. You consider several options to exploit this opportunity. What is the best course of action for you to increase the chances of receiving the bonus?",
+    "options": {
+      "A": "Reduce project scope",
+      "B": "Level resources",
+      "C": "Crash the schedule",
+      "D": "Purchase insurance"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The quality management plan specifies the use of a data representation technique to show the strength of relationships between four factors. Which of the following tools or techniques should be used to comply with the plan?",
+    "options": {
+      "A": "Affinity diagram",
+      "B": "Matrix diagram",
+      "C": "Scatter diagram",
+      "D": "Quality diagram"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "You have just taken over a project in which some of the deliverables will be produced by external vendors. You want to familiarize yourself with those who are involved in the project from the sellers' side. Where would you look to obtain this information?",
+    "options": {
+      "A": "Bid documents",
+      "B": "Stakeholder register",
+      "C": "Seller proposals",
+      "D": "Stakeholder engagement plan"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Your project has been plagued with numerous change requests. What is the most likely reason?",
+    "options": {
+      "A": "Incomplete stakeholder register",
+      "B": "Lack of a detailed procedure to close the project",
+      "C": "Failure to implement risk responses",
+      "D": "Change management plan did not authorize a change control board"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "In the design phase, external experts verified that the team's blueprints for a new crane complied with requirements. During the build phase, the customer performed a walkthrough and found that some welding joints on the crane were defective. The crane needs to be reworked to ensure it can be operated safely. How could this situation have been avoided?",
+    "options": {
+      "A": "Outsourcing the welding to an external vendor",
+      "B": "Testing the welding before the customer walkthrough",
+      "C": "Using the requirements traceability matrix",
+      "D": "Defects are part of any project and cannot be avoided."
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "For an upcoming project, a needs assessment and business case have been completed, and the project management office (PMO) is reviewing a draft of the benefits management plan. The PMO highlights an element of the benefits management plan and requests that the element be removed before the document is finalized. Which of the following was most likely the element the PMO requested to remove?",
+    "options": {
+      "A": "Expected tangible and intangible value to be gained by the implementation of the project",
+      "B": "A set of options to be considered for addressing the business opportunity",
+      "C": "A timeframe for realizing the benefits of the project",
+      "D": "Measures to be used to show benefits realized"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "The following Gantt chart displays the schedule for a software upgrade project. The system analysis was completed on August 12th, but the system design and development activities are still in process as of October 3rd. Once the product is developed, the project team will need to test and deploy it, which must be completed by October 17th. The method used to determine the earned value is based on percent complete. What is the cost variance as of October 3rd?",
+    "options": {
+      "A": "-$650",
+      "B": "$3,750",
+      "C": "$650",
+      "D": "$3,100"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "A servant leader has just been assigned to an upcoming product development project and believes that the project is well-suited to Kanban. However, the development team is unfamiliar with this approach. What is the servant leader's best course of action?",
+    "options": {
+      "A": "Discuss Kanban during a daily standup meeting",
+      "B": "Review Kanban at the iteration retrospective",
+      "C": "Let the team members learn Kanban on their own",
+      "D": "Have the team attend a workshop on Kanban"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are developing the project scope statement. You have specified the deliverables for the project, included the requirements under which the deliverables will be accepted, and explicitly stated what is out of project scope. What else should you include in the project scope statement?",
+    "options": {
+      "A": "Project exclusions",
+      "B": "Acceptance criteria",
+      "C": "Project approval requirements",
+      "D": "Product scope description"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A project manager is in the process of obtaining team members. She wants to understand the availability of the team members required to complete project work. What should the project manager do to find this information?",
+    "options": {
+      "A": "Look at the resource calendars",
+      "B": "Contact the project management office",
+      "C": "Review the resource requirements",
+      "D": "Examine the resource breakdown structure"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "A project to reduce the defect rate of the manufacturing process is underway. To analyze and improve the process, the project team is now carrying out the quality assurance activities. Which of the following would be the most beneficial for this project?",
+    "options": {
+      "A": "Introducing the use of a kanban board into the manufacturing process",
+      "B": "Consulting with a certified Six Sigma Black Belt expert",
+      "C": "Utilizing rolling wave planning for the project",
+      "D": "Adopting a just-in-time (JIT) manufacturing process"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "During project planning of a large, complex project, project management best practices were rigorously and thoroughly followed. During project execution, the project experienced several critical risks, which were foreseen and previously identified. Despite the meticulous planning, the project failed to achieve the established objectives due to these realized risks. What may have gone wrong in this scenario?",
+    "options": {
+      "A": "The realized risks had not been identified earlier in the project",
+      "B": "The risk responses were poorly devised",
+      "C": "The qualitative risk analysis was inadequate",
+      "D": "There was little or no action taken to manage the known risks"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A team member volunteered to provide the project status update in a weekly presentation to the key stakeholders. After the first meeting has taken place, feedback from the stakeholders suggests that the presentation was not very engaging. What is the best way for the project manager to address this situation with the team member?",
+    "options": {
+      "A": "Discuss the issue with the team member",
+      "B": "Prepare a formal written document",
+      "C": "Utilize formal verbal communication",
+      "D": "Send an email to the team member"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "A corporate restructuring project is in execution. The job responsibilities of many key stakeholders are being disrupted, which has caused challenges in keeping the stakeholders engaged in a positive manner. Which of the following actions is the project manager least likely to perform in this situation?",
+    "options": {
+      "A": "Manage stakeholder expectations through negotiation and communication",
+      "B": "Develop approaches to involve stakeholders based on their needs, expectations, interests, and potential impact on the project",
+      "C": "Address any risks or potential concerns related to stakeholder management and anticipate future issues that may be raised by stakeholders",
+      "D": "Engage stakeholders at appropriate project stages to obtain, confirm, or maintain their continued commitment to the success of the project"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "You are leading a software development project where the developers are colocated within rented office space. Writing the code is taking longer than anticipated, and you have contacted the landlord requesting to rent the office for another week. Unfortunately, the landlord tells you that the office is already booked. You capture the problem in the project documents. What should you do next?",
+    "options": {
+      "A": "Record the issue in the issue log",
+      "B": "Revise the resource management plan",
+      "C": "Update the risk register",
+      "D": "Request additional funds"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "During a bidder conference, a supplier asks why a section is missing from the request for quotation (RFQ). Upon realizing that the section is indeed missing, the project manager becomes flustered and stumbles through a brief reply. When the seller responses were received, all but three prospective suppliers fail to address the missing section. What is the best course of action?",
+    "options": {
+      "A": "Hold the bidder conference again, and explain the importance of the point that was initially missed",
+      "B": "Select from the three vendors that submitted complete proposals",
+      "C": "Send a revised RFQ to all prospective suppliers and allow them the opportunity to resubmit their proposals",
+      "D": "Extend the deadline and allow all of the vendors to resubmit their proposals"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are leading a project to develop a new web application. Together with your project team you reprioritize the product backlog, determine velocity for the past iterations, and adapt your work plans accordingly. Additionally, you facilitate retrospectives every two weeks. Which of the following processes describes the work you are performing?",
+    "options": {
+      "A": "Monitor Risks",
+      "B": "Manage Quality",
+      "C": "Control Schedule",
+      "D": "Develop Schedule"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are part of a cross-functional development team piloting an adaptive approach to project management in an organization that has traditionally used a predictive approach. You realize that you have to tailor the template of the schedule management plan. Which of the following components of the template are you likely to tailor the most?",
+    "options": {
+      "A": "The rules of performance measurement, the summary milestones, and the key deliverables",
+      "B": "The organizational procedures links, the units of measure, and the project organization charts",
+      "C": "The schedule model development, the release and iteration length, and the reporting formats",
+      "D": "The project schedule model maintenance, the level of accuracy, and the level of precision"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "A project team performs monthly risk audits for a project, where a large number of identified risks have been realized. So far, the risk responses have been appropriate, and the reserves sufficient. An executive for the requesting organization criticizes the project manager improper risk audits, stating that only independent, external resources should perform risk audits. How should the project manager respond?",
+    "options": {
+      "A": "Explain that risk audits can be performed either internally or externally as long as they follow the project management plan",
+      "B": "Agree with the executive and submit a change request to update the project management plan to have the audits conducted externally",
+      "C": "Follow the guidance provided by the executive and hire a team of external auditors to conduct the risk audits going forward",
+      "D": "Explain that if the current risk audits are not sufficient, then a comprehensive project audit should be carried out"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "You are developing the risk management plan for your project. In support of this process, you need to determine the acceptable level of overall project risk exposure. What should you do first?",
+    "options": {
+      "A": "Determine the risk appetites of key project stakeholders",
+      "B": "Consult the risk exposure register within the organizational process assets",
+      "C": "Facilitate a brainstorming meeting to develop a comprehensive list of project risks",
+      "D": "Develop a set of responses to individual project risks to mitigate overall project risk"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "You meet with your team to determine the life cycle for your project. After analyzing the best way to define and manage requirements, develop deliverables, handle changes, control risk and cost, and engage key stakeholders, the decision is made to select a hybrid life cycle. With the project life cycle selected, how will the product be delivered?",
+    "options": {
+      "A": "As subsets of the overall product",
+      "B": "As a single final product at the end of the project",
+      "C": "As work packages of the WBS",
+      "D": "As product increments based on customer's value"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "As a project manager, you are in the process of estimating the team resources that will be required for your project. The challenge you are having is that, due to the nature of the project and the selected development approach, only a few of the top levels of the WBS have been identified with the remainder to be progressively elaborated throughout the project. What is the best approach to determine the team resource requirements for the project?",
+    "options": {
+      "A": "Check the organizational process assets for similar projects and use analogous estimating",
+      "B": "Apply bottom-up estimating using the work breakdown structure (WBS) as a guide",
+      "C": "Utilize parametric estimating for the individual work packages within the existing WBS",
+      "D": "Decompose the WBS down to the work package level during initial project planning"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "You are part of a project team designing a new type of a vehicle. You are about to begin work on a work package for the braking system of the vehicle and want to review the acceptance criteria before starting the work. Where can you find this information?",
+    "options": {
+      "A": "Project management plan",
+      "B": "Activity attributes",
+      "C": "Requirements documentation",
+      "D": "The WBS dictionary"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A project to construct an assembly line is nearly complete. The project manager closes procurements, shares the final project report, updates the lessons learned repository, and obtains feedback from the relevant stakeholders. What should the project manager do next?",
+    "options": {
+      "A": "Provide final payment to the suppliers",
+      "B": "Send a summary of how the final product achieved the business needs",
+      "C": "Transfer the completed assembly line to operations",
+      "D": "Send formal written notice to the vendors that the contracts have been completed"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "A project team is mulling over two risk responses for inclusion in the risk register. The first risk response has two criteria that must be met and costs $5,000. The second risk response has four criteria that must be met, but only costs $2,000. What action is the project team least likely to take in selecting the best risk response?",
+    "options": {
+      "A": "Running a Monte Carlo simulation",
+      "B": "Performing an alternatives analysis",
+      "C": "Conducting a cost-benefit analysis",
+      "D": "Using multicriteria decision analysis"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "A project manager is implementing the requirements management plan for a software upgrade project that will incorporate some agile elements. The project manager needs to quickly define cross-functional requirements and reconcile stakeholder differences to build a consensus among the relevant stakeholders. What is the project manager's best course of action?",
+    "options": {
+      "A": "Create a questionnaire and send it out to all of the stakeholders to determine the project requirements",
+      "B": "Conduct an in-person interview with each of the relevant stakeholders to determine their needs",
+      "C": "Facilitate a requirements workshop with all of the relevant stakeholders to develop user stories",
+      "D": "Perform a job shadowing exercise with the intended end-users of the existing software"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The organization’s leadership wants projects to include more agile methodologies. Before mandating any agile methods to be used in a project, what should be done first?",
+    "options": {
+      "A": "Pause current projects to align them to the new agile cadence",
+      "B": "Ask employees to vote on who wants to take part in agile projects",
+      "C": "Assess organizational culture and readiness for the transformation",
+      "D": "Provide agile training to those who will be part of the pilot project team"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are establishing the relative priorities of individual risks identified in the project. Which of the following tasks is the least likely to impact this prioritization?",
+    "options": {
+      "A": "Reviewing the assumption log",
+      "B": "Examining the risk register",
+      "C": "Researching the stakeholder register",
+      "D": "Creating the risk report"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Team members are frequently changing during the long timeline of a multi-phase project. The project manager is questioning whether to include agile practices to accommodate the changes. What should the project manager do prior to moving to a hybrid approach?",
+    "options": {
+      "A": "Ensure project finances are secured for the next project phase",
+      "B": "Reduce the team size to nine people, plus or minus two",
+      "C": "Target a smaller project as a proof of concept to test the feasibility",
+      "D": "Evaluate the benefits of incorporating agile practices"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "Midway into project execution, new cybersecurity laws take an immediate effect and require audits of the system. The project has a well thought out project management plan. The audits may come at any time throughout the system’s development. What is the best way for the project manager and team to address the risk of audits disrupting the project plans?",
+    "options": {
+      "A": "Handle the audits as an unplanned spike",
+      "B": "Reschedule the audits to the end of the project",
+      "C": "Request that the sponsor removes the audits",
+      "D": "Inform stakeholders that the project will miss its objectives"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "A plan-driven project has many deliverables planned to be released at the end of the phase. The project manager wants to ensure that the deliverables are completed as expected. Which agile practices can the project manager recommend to the team to make certain that the deliverables are completed and delivered as expected?",
+    "options": {
+      "A": "Definition of ready and iteration reviews",
+      "B": "User stories and confidence votes",
+      "C": "Definition of done and demonstrations",
+      "D": "Backlog refinement and retrospectives"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "A project manager facilitates a discussion with the team about experimenting with some agile practices in their plan-driven project. A suggestion of incorporating daily standups is on the table. The team members, however, are unsure of what is expected of them. What can the project manager suggest the project team members do prior to the daily standup?",
+    "options": {
+      "A": "Make sure their work progress is reflected in the burndown chart",
+      "B": "Submit the necessary progress reports to the product owner",
+      "C": "Estimate work items that will be developed after the daily standup",
+      "D": "Resolve any defects that have been found in the previous day"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "The project team is undergoing an agile transformation. This requires the team members to maintain their original project plans in the current management tool, but also enter performance data in the new tool built around agile practices. The team identifies that the information in the two tools is out of sync. This risk has been identified earlier in project planning. What is the best course of action for the project manager?",
+    "options": {
+      "A": "Accept the risk since agile values individuals and interactions over processes and tools",
+      "B": "Recognize that the risk has now become an issue and implement the planned response",
+      "C": "Conduct a probability and impact assessment to determine a risk score",
+      "D": "Communicate to the project sponsor that work may be delayed due to clerical errors"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Projects in a program are using various project management approaches, such as plan-driven, agile, hybrid. The project teams are complaining that because of that, the team members must enter the same work, hours, risks, and other data in multiple tools. The redundant work is impeding on their productivity time. What is the best course of action for the program manager?",
+    "options": {
+      "A": "Direct the teams to continue entering the data in the various systems",
+      "B": "Determine what tools and data provide the appropriate oversight",
+      "C": "Switch all projects in the program to the agile project management approach",
+      "D": "Pause all data entry until a valuable solution can be determined"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "An organization is to undertake a multi-phased project. The sponsor wants to pursue the project objectives as they have been planned but also wants to accommodate and adjust to new information and changes in the environment as the project progresses. Which project management approach should the project manager select for this project?",
+    "options": {
+      "A": "Waterfall",
+      "B": "Agile",
+      "C": "Hybrid",
+      "D": "Phased"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "Your sponsor has committed to building a high-speed rail from one major inland city, Azules, to the coast. You have two possible routes, either Brazos or Corazon. Given the costs, odds, and rewards of high demand and low demand of each route in this decision tree, what is the expected monetary value of the route to Brazos?",
+    "options": {
+      "A": "1.6 billion",
+      "B": "-2 billion",
+      "C": "0.8 billion",
+      "D": "10.8 billion"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "Senior leadership has returned from a conference where they have learned about the agile practice of retrospectives. Even though the organization does not manage any projects in an agile manner, they mandate that from now on this ceremony is included in all projects. How should the outputs from the retrospectives be stored and managed?",
+    "options": {
+      "A": "Senior leadership determines the location of the outputs and who may access the contents",
+      "B": "The project team stores the outputs in a location that the project manager can control and limit changes",
+      "C": "The project team determines a location that is accessible for relevant stakeholders to view and track",
+      "D": "The project manager establishes the location and allows the customer to view and make recommendations"
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "The resource management plan for an international project calls for a scrum team to be colocated during the regular workweek. However, after five sprints were completed, the project manager got a change request approved to cut costs by transitioning the team to a virtual environment working remotely from their homes with the start of the sixth sprint. After the team begins working remotely, what will be the best method to understand the impact of the change on the team's productivity?",
+    "options": {
+      "A": "Check the product burndown chart to look for any changes to the trendline",
+      "B": "Calculate the CPI at the end of each sprint to determine the change in the team's productivity",
+      "C": "Review the product burnup chart to compare velocity before and after the change",
+      "D": "Update the project schedule network diagram to reflect the changes in the team's environment"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "As part of the Plan Resource Management process, project team members hold a brainstorming session to charter working agreements. The team identifies 37 agreements that include communication guidelines, decision-making and conflict resolution processes, core hours, a definition of a story point, how and when user stories will move through the Kanban board, etc. What should the project manager do next?",
+    "options": {
+      "A": "Submit a change request to revise the resource management plan to incorporate the team's working agreements",
+      "B": "Verify that all of the project team members support the working agreements and document the agreements in the project charter",
+      "C": "Review the team's working agreements at the start of every daily standup and during the sprint review meetings",
+      "D": "Ask the project team members for their top five to ten agreements and document the information in the team charter"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "A project manager implements the project management plan meticulously but is struggling with leading the project team effectively. There is a great deal of unhealthy tension between the project team members as well as with the project manager. The project manager has had several outbursts during sprint retrospectives, which has caused the meeting to be abruptly adjourned. What should the project manager do first?",
+    "options": {
+      "A": "Submit a change request to revise the project management plan to eliminate the requirement for retrospectives",
+      "B": "Take a proactive step in improving his own emotional intelligence (EI) to become a more effective leader",
+      "C": "Reduce the story size by splitting user stories and use relative estimation with the entire team to estimate",
+      "D": "Lead a training session with the project team members to help them become emotionally competent"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "A project is six months into its nine-month projected duration. The project manager reports that the project is at least three months behind schedule because certain key stakeholders were resistant to consequential changes due to the project. What might have been done differently during project planning to avoid this situation?",
+    "options": {
+      "A": "Better execution of the Manage Stakeholder Engagement process",
+      "B": "Development of a stakeholder engagement assessment matrix",
+      "C": "Creation of a comprehensive stakeholder register",
+      "D": "Establishment of a more robust communications management plan"
+    },
+    "correct": ["B"]
+  },
+  {
+    "question": "Two team members are arguing over how to organize the work packages in the work breakdown structure (WBS). One says the work packages should be arranged in the order the work is planned to be carried out, while the other insists the order of the work packages in the WBS does not matter. The two ask the project manager for advice. What is the project manager's best response?",
+    "options": {
+      "A": "Work is decomposed and sequenced in the Define Activities process.",
+      "B": "Any approach is good as long as the team members avoid the conflict.",
+      "C": "The chronological order of tasks is defined in the Sequence Activities process.",
+      "D": "The approach should be defined by the project management office (PMO)."
+    },
+    "correct": ["C"]
+  },
+  {
+    "question": "You are leading a project to design a high-efficiency solar cell. The project needs copper, silver, and silicon among other materials. You have ordered custom-built manufacturing equipment, secured permission to install a solar array on the roof for testing, and reserved a conference room for daily stand-up meetings. What is the result of your efforts?",
+    "options": {
+      "A": "Resource histogram",
+      "B": "Resource management plan",
+      "C": "Resource assignment matrix",
+      "D": "Physical resource assignments"
+    },
+    "correct": ["D"]
+  },
+  {
+    "question": "During project execution, several unexpected issues have developed and are now threatening the project schedule and budget. What is the best course of action for the project manager to address the issues?",
+    "options": {
+      "A": "Use contingency reserves",
+      "B": "Review project funding requirements",
+      "C": "Use management reserves",
+      "D": "Review organizational process assets"
+    },
+    "correct": ["A"]
+  },
+  {
+    "question": "To produce the deliverables, the project will procure goods and services from outside the organization. The project manager has instructed the team to develop a comprehensive list of individual project risks related to those procurements. What is the best course of action for the project team?",
+    "options": {
+      "A": "Consult the project charter",
+      "B": "Review procurement documentation",
+      "C": "Develop a procurement register",
+      "D": "Check the probability and impact matrix"
+    },
+    "correct": ["B"]
+  },
     {
         "question": "",
         "options": {
