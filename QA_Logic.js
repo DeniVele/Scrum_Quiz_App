@@ -2,18 +2,36 @@
 const quizContainer = document.getElementById("quiz");
 questions.forEach((q, index) => {
     const questionDiv = document.createElement("div");
-    questionDiv.innerHTML = `
-        <div class="question">${index + 1}. ${q.question}</div>
-        <div class="answers">
-            ${Object.entries(q.options)
-                .map(([key, value]) => `
-                    <div class="answer-option">
-                        <label>
-                            <input type="checkbox" name="question${index}" value="${key}"> ${key}. ${value}
-                        </label>
+    let answerOptionsHTML = "";
+
+    if (q.type === "drag_and_drop") {
+        answerOptionsHTML = `
+            <div class="drag-and-drop">
+                ${Object.entries(q.pairs).map(([key, value]) => `
+                    <div class="pair">
+                        <strong>${key}</strong> → <em>${value}</em>
                     </div>
                 `).join('')}
-        </div>
+            </div>
+        `;
+    } else if (q.type === "spreadsheet_view" || q.type === "email_snippet" || !q.type) {
+        answerOptionsHTML = `
+            <div class="answers">
+                ${Object.entries(q.options)
+                    .map(([key, value]) => `
+                        <div class="answer-option">
+                            <label>
+                                <input type="checkbox" name="question${index}" value="${key}"> ${key}. ${value}
+                            </label>
+                        </div>
+                    `).join('')}
+            </div>
+        `;
+    }
+
+    questionDiv.innerHTML = `
+        <div class="question">${index + 1}. ${q.question}</div>
+        ${answerOptionsHTML}
         <button onclick="submitAnswer(${index})">Submit</button>
     `;
     quizContainer.appendChild(questionDiv);
@@ -28,43 +46,45 @@ function updateCounters() {
     document.getElementById("incorrect-counter").textContent = `Incorrect Answers: ${incorrectCount}`;
 }
 
-// Evaluate and apply color coding for each question
 function submitAnswer(questionIndex) {
     const q = questions[questionIndex];
+
+    if (q.type === "drag_and_drop") {
+        alert("Drag-and-drop interactions are informational only in this quiz. Please evaluate manually.");
+        document.querySelector(`button[onclick="submitAnswer(${questionIndex})"]`).disabled = true;
+        totalAnswered++;
+        updateCounters();
+        return;
+    }
+
     const selected = Array.from(document.querySelectorAll(`input[name="question${questionIndex}"]:checked`)).map(cb => cb.value);
     const correct = q.correct;
 
     let isAlreadyEvaluated = document.querySelector(`button[onclick="submitAnswer(${questionIndex})"]`).disabled;
 
     if (!isAlreadyEvaluated) {
-        totalAnswered++; // Increment total answered questions
+        totalAnswered++;
 
-        // Determine if the question is correct or incorrect
         const isCorrect = correct.length === selected.length && correct.every(answer => selected.includes(answer));
         if (!isCorrect) {
-            incorrectCount++; // Increment incorrect questions
+            incorrectCount++;
         }
 
         Object.keys(q.options).forEach(option => {
             const optionElement = document.querySelector(`input[name="question${questionIndex}"][value="${option}"]`).parentElement;
 
-            // If the option is correct, mark it green
             if (correct.includes(option)) {
                 optionElement.classList.add("correct");
             }
 
-            // If the option is selected and incorrect, mark it red
             if (selected.includes(option) && !correct.includes(option)) {
                 optionElement.classList.add("incorrect");
             }
         });
 
         updateCounters();
-
-        // Disable the submit button
         document.querySelectorAll(`button[onclick="submitAnswer(${questionIndex})"]`).forEach(button => button.disabled = true);
     }
 }
 
-// Update counters when the page loads
 updateCounters();
