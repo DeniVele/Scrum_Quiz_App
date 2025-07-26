@@ -2683,7 +2683,6 @@
     },
  {
     "question": "Order the typical steps of planning poker estimation.",
-    "type": "drag_and_drop",
     "options": {
       "A": "Select a user story",
       "B": "Discuss the story",
