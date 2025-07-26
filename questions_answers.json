@@ -2681,7 +2681,79 @@
             "XX"
         ]
     },
-    {
+ {
+    "question": "Email from Product Owner: 'Hi team, thanks for your hard work! One concern though\u2014several stories seem to carry over every sprint. Can we find a way to improve this?'",
+    "type": "email_snippet",
+    "options": {
+      "A": "Encourage the team to break stories into smaller, more manageable parts.",
+      "B": "Remind the Product Owner that this is normal in Agile.",
+      "C": "Ask the team to increase velocity estimates to match PO expectations.",
+      "D": "Assign the Scrum Master to monitor each developer\u2019s time usage more closely."
+    },
+    "correct": [
+      "A"
+    ]
+  },
+  {
+    "question": "Match each Agile role to its correct responsibility.",
+    "type": "drag_and_drop",
+    "pairs": {
+      "Product Owner": "Prioritizes the product backlog",
+      "Scrum Master": "Removes impediments for the team",
+      "Development Team": "Delivers a potentially shippable increment",
+      "Stakeholder": "Provides feedback and requirements"
+    },
+    "correct": {
+      "Product Owner": "Prioritizes the product backlog",
+      "Scrum Master": "Removes impediments for the team",
+      "Development Team": "Delivers a potentially shippable increment",
+      "Stakeholder": "Provides feedback and requirements"
+    }
+  },
+  {
+    "question": "Review the task board below. What is the BEST action for the team?\n\n| Story         | Task              | Status       | Assignee |\n|---------------|-------------------|--------------|----------|\n| Login Feature | Implement login   | Done         | Alice    |\n| Login Feature | Write unit tests  | In Progress  | Bob      |\n| Login Feature | Code review       | Not Started  | \u2014        |",
+    "type": "spreadsheet_view",
+    "options": {
+      "A": "Mark the story as complete to update the burndown chart.",
+      "B": "Begin working on the next feature in the backlog.",
+      "C": "Assign someone to perform the code review task.",
+      "D": "Reassign 'Write unit tests' to a faster developer."
+    },
+    "correct": [
+      "C"
+    ]
+  },
+  {
+    "question": "Email from QA Lead: 'Hey team, I\u2019ve noticed we often release without completing regression tests. Can we please fix this?' What should the Scrum Master do?",
+    "type": "email_snippet",
+    "options": {
+      "A": "Remind the QA lead that regression testing is optional in Agile.",
+      "B": "Update the Definition of Done to include regression testing.",
+      "C": "Request QA to create a checklist for post-release testing.",
+      "D": "Assign regression testing to one team member."
+    },
+    "correct": [
+      "B"
+    ]
+  },
+  {
+    "question": "Match each Agile artifact with its correct description.",
+    "type": "drag_and_drop",
+    "pairs": {
+      "Product Backlog": "Ordered list of everything that might be needed in the product",
+      "Sprint Backlog": "Set of Product Backlog items selected for the Sprint",
+      "Increment": "Sum of all completed Product Backlog items in a Sprint",
+      "Burndown Chart": "Visual representation of remaining work"
+    },
+    "correct": {
+      "Product Backlog": "Ordered list of everything that might be needed in the product",
+      "Sprint Backlog": "Set of Product Backlog items selected for the Sprint",
+      "Increment": "Sum of all completed Product Backlog items in a Sprint",
+      "Burndown Chart": "Visual representation of remaining work"
+    }
+  },    
+
+{
         "question": "",
         "options": {
             "A":"",
